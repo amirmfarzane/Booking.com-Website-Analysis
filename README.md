@@ -12,9 +12,7 @@ This project involves a comprehensive analysis of Booking.com data, undertaken a
 4. [Model Training](#model-training)
 5. [Results](#results)
 6. [Conclusion](#conclusion)
-7. [Usage](#usage)
-8. [Contributors](#contributors)
-9. [License](#license)
+7. [License](#license)
 
 ## Project Structure
 
@@ -79,6 +77,13 @@ The results of the analysis include:
 |MLP regression |0.77|
 |Linear regression|0.57|
 
+XGboost has more accuracy.
+
 ## Conclusion
 
 This project successfully demonstrated the application of data science techniques to Booking.com data. The insights and predictive models developed can be valuable for stakeholders in the hospitality and travel industry.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
