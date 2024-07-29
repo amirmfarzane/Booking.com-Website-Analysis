@@ -22,3 +22,4 @@ booking-com-analysis/
 │
 ├── README.md
 └── requirements.txt
+  
