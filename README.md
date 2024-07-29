@@ -23,9 +23,11 @@ This project involves a comprehensive analysis of Booking.com data, undertaken a
 
 ## Data Scraping
 
-Data was scraped from Booking.com using custom Python scripts. The scraping process involved:
+Data was scraped from Booking.com using custom Python scripts and beautiful soup. The scraping process involved:
 
 - Extracting information on hotels, such as prices, ratings, location, amenities, and reviews.
+- Choosing number of adults and number of nights is possible to change based on ypur need.
+- Also is possible to choose diffrent cities but we extracted city key from html script of website and be used.
 - Ensuring data quality and handling issues like missing values and duplicates.
 
 For more details, refer to the notebook: `notebooks/01_data_scraping.ipynb`
