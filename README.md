@@ -6,31 +6,12 @@ This project involves a comprehensive analysis of Booking.com data, undertaken a
 
 ## Table of Contents
 
-1. [Project Structure](#project-structure)
-2. [Data Scraping](#data-scraping)
-3. [Feature Engineering and EDA](#feature-engineering)
-4. [Model Training](#model-training)
-5. [Results](#results)
-6. [Conclusion](#conclusion)
-7. [License](#license)
-
-## Project Structure
-booking-com-analysis/
-│
-├── Scrapping/
-│   ├── hotels_in_europe.csv/                   # Raw data collected from the website
-|   ├── scrap.ipynb/             # Scrapping implementation
-│   ├── DS-Project-P0.pdf/             # This phase description
-│
-├── EDA and feature engineering/
-│   ├── DS-Project-P1.ipynb 
-|   ├── DS-Project-P1.pdf 
-│
-├── Train Models/
-│   ├── DS-Project-P2.ipynb 
-│   ├── DS-Project-P2.pdf
-├── README.md
-└── requirements.txt
+1. [Data Scraping](#data-scraping)
+2. [Feature Engineering and EDA](#feature-engineering-and-eda)
+3. [Model Training](#model-training)
+4. [Results](#results)
+5. [Conclusion](#conclusion)
+6. [License](#license)
 
 
 ## Data Scraping
@@ -62,7 +43,7 @@ EDA was performed to uncover patterns, trends, and relationships in the data. Ke
 For more details of this phase description, refer to the notebook: `P1/DS-Project-P1.pdf`
 For more details of this phase implementation, refer to the notebook: `P1/DS-Project-P1.ipynb`
 
-## Model training to price prediction and using another AI methods.
+## Model training
 
 Several machine learning models were trained to predict hotel prices based on the engineered features. The process involved:
 
