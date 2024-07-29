@@ -1,0 +1,599 @@
+,Unnamed: 0,name,location,price,rating,quality,review,bed,distance from centure,room_type,nights,adults,city,neighbourhood,quality_val,nights2,adults2,review2,price2,bed2,dfc
+0,27,DoubleTree by Hilton Berlin Ku'damm,"Charlottenburg-Wilmersdorf, Berlin",US$183,8.8,Fabulous,1209 reviews,1 extra-large double bed,2.0,King Room,1 night, 1 adult,Berlin,Charlottenburg-Wilmersdorf,3.0,1,1,1209,183,1.0,2.0
+1,29,Hotel AMANO Grand Central,"Mitte, Berlin",US$104,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,10745,104,1.0,0.9
+2,30,Hotel ROMY by AMANO,"Mitte, Berlin",US$97,8.3,Very good,5619 reviews,1 large double bed,0.8,Small Double Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,5619,97,1.0,0.8
+3,31,Hotel 38,"Mitte, Berlin",US$97,8.4,Very good,4502 reviews,1 single bed,0.9,Single Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,4502,97,1.0,0.9
+4,32,AMANO East Side,"Friedrichshain-Kreuzberg, Berlin",US$101,8.3,Very good,6989 reviews,1 large double bed,2.3,Standard Double Room,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,1,1,6989,101,1.0,2.3
+5,33,Pullman Berlin Schweizerhof,"Mitte, Berlin",US$162,8.5,Very good,5555 reviews,Beds: 1 double or 2 singles,1.5,Superior Double or Twin Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,5555,162,1.0,1.5
+6,34,Motel One Berlin-Spittelmarkt,"Mitte, Berlin",US$124,8.7,Fabulous,4924 reviews,1 large double bed,1.1,Room with King Size bed,1 night, 1 adult,Berlin,Mitte,3.0,1,1,4924,124,1.0,1.1
+7,35,Catalonia Berlin Mitte,"Mitte, Berlin",US$108,8.3,Very good,4722 reviews,Beds: 1 double or 2 singles,1.7,Standard Double Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,4722,108,1.0,1.7
+8,36,a&o Berlin Hauptbahnhof,"Mitte, Berlin",US$21,7.3,Good,9768 reviews,1 bunk bed,1.0,Bed in 8-Bed Dormitory Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,9768,21,1.0,1.0
+9,37,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$133,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,14880,133,1.0,0.6
+10,38,Grimm's Potsdamer Platz,"Mitte, Berlin",US$118,8.8,Fabulous,8372 reviews,1 single bed,0.9,Single Room,1 night, 1 adult,Berlin,Mitte,3.0,1,1,8372,118,1.0,0.9
+11,39,Park Inn by Radisson Berlin Alexanderplatz,"Mitte, Berlin",US$151,7.4,Good,21168 reviews,Beds: 1 double or 2 singles,1.6,Double Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,21168,151,1.0,1.6
+12,40,Hilton Berlin,"Mitte, Berlin",US$194,7.7,Good,3103 reviews,1 single bed,0.7,Twin Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,3103,194,1.0,0.7
+13,42,HighPark Berlin am Potsdamer Platz,"Mitte, Berlin",US$231,8.8,Fabulous,4724 reviews,"2 beds (1 sofa bed, 1 large double)",0.8,King Studio with Sofa Bed,1 night, 1 adult,Berlin,Mitte,3.0,1,1,4724,231,2.0,0.8
+14,43,Hampton By Hilton Berlin City East Side Gallery,"Friedrichshain-Kreuzberg, Berlin",US$129,8.5,Very good,6710 reviews,1 large double bed,2.9,Queen Room - Mobility Access,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,1,1,6710,129,1.0,2.9
+15,44,Scandic Berlin Potsdamer Platz,"Mitte, Berlin",US$146,8.2,Very good,14562 reviews,1 extra-large double bed,0.8,Standard Double Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,14562,146,1.0,0.8
+16,45,Grand Hostel Berlin Classic,"Friedrichshain-Kreuzberg, Berlin",US$23,8.1,Very good,3170 reviews,1 single bed,1.3,Bed in 8-Bed Mixed Dormitory Room with Private Bathroom,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,1,1,3170,23,1.0,1.3
+17,46,Nena Hostel Berlin,"Mitte, Berlin",US$20,7.8,Good,3560 reviews,1 bunk bed,3.2,Bed in 6-Bed Mixed Dormitory Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,3560,20,1.0,3.2
+18,52,Artim Hotel,"Tempelhof-Schöneberg, Berlin",US$90,7.6,Good,3633 reviews,1 large double bed,1.8,Standard Double Room,1 night, 1 adult,Berlin,Tempelhof-Schöneberg,1.0,1,1,3633,90,1.0,1.8
+19,53,DoubleTree by Hilton Berlin Ku'damm,"Charlottenburg-Wilmersdorf, Berlin",US$183,8.8,Fabulous,1209 reviews,1 extra-large double bed,2.0,King Room,1 night, 1 adult,Berlin,Charlottenburg-Wilmersdorf,3.0,1,1,1209,183,1.0,2.0
+20,54,Hotel AMANO Grand Central,"Mitte, Berlin",US$104,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,10745,104,1.0,0.9
+21,55,Hotel ROMY by AMANO,"Mitte, Berlin",US$97,8.3,Very good,5619 reviews,1 large double bed,0.8,Small Double Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,5619,97,1.0,0.8
+22,56,Grimm's Berlin Mitte,"Mitte, Berlin",US$92,8.4,Very good,3127 reviews,1 single bed,1.3,Single Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,3127,92,1.0,1.3
+23,57,"Hotel Berlin, Berlin, a member of Radisson Individuals","Mitte, Berlin",US$147,8.0,Very good,15429 reviews,1 large double bed,1.3,Cosy Small Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,15429,147,1.0,1.3
+24,58,Hotel 38,"Mitte, Berlin",US$97,8.4,Very good,4502 reviews,1 single bed,0.9,Single Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,4502,97,1.0,0.9
+25,59,AMANO East Side,"Friedrichshain-Kreuzberg, Berlin",US$101,8.3,Very good,6989 reviews,1 large double bed,2.3,Standard Double Room,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,1,1,6989,101,1.0,2.3
+26,60,Motel One Berlin-Alexanderplatz,"Mitte, Berlin",US$136,8.6,Fabulous,12868 reviews,1 large double bed,1.5,Queen Room,1 night, 1 adult,Berlin,Mitte,3.0,1,1,12868,136,1.0,1.5
+27,61,Pullman Berlin Schweizerhof,"Mitte, Berlin",US$162,8.5,Very good,5555 reviews,Beds: 1 double or 2 singles,1.5,Superior Double or Twin Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,5555,162,1.0,1.5
+28,62,Motel One Berlin-Spittelmarkt,"Mitte, Berlin",US$124,8.7,Fabulous,4924 reviews,1 large double bed,1.1,Room with King Size bed,1 night, 1 adult,Berlin,Mitte,3.0,1,1,4924,124,1.0,1.1
+29,63,Catalonia Berlin Mitte,"Mitte, Berlin",US$108,8.3,Very good,4722 reviews,Beds: 1 double or 2 singles,1.7,Standard Double Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,4722,108,1.0,1.7
+30,64,Generator Berlin Mitte,"Mitte, Berlin",US$23,7.5,Good,5522 reviews,1 bunk bed,0.9,Bed 8-Bed Mixed Dormitory Room with Private Bathroom,1 night, 1 adult,Berlin,Mitte,1.0,1,1,5522,23,1.0,0.9
+31,65,a&o Berlin Hauptbahnhof,"Mitte, Berlin",US$21,7.3,Good,9768 reviews,1 bunk bed,1.0,Bed in 8-Bed Dormitory Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,9768,21,1.0,1.0
+32,66,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$133,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,14880,133,1.0,0.6
+33,67,Grimm's Potsdamer Platz,"Mitte, Berlin",US$118,8.8,Fabulous,8372 reviews,1 single bed,0.9,Single Room,1 night, 1 adult,Berlin,Mitte,3.0,1,1,8372,118,1.0,0.9
+34,68,Park Inn by Radisson Berlin Alexanderplatz,"Mitte, Berlin",US$151,7.4,Good,21168 reviews,Beds: 1 double or 2 singles,1.6,Double Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,21168,151,1.0,1.6
+35,69,Hilton Berlin,"Mitte, Berlin",US$194,7.7,Good,3103 reviews,1 single bed,0.7,Twin Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,3103,194,1.0,0.7
+36,70,Precise Tale Berlin Potsdamer Platz,"Friedrichshain-Kreuzberg, Berlin",US$202,8.6,Fabulous,4827 reviews,1 extra-large double bed,0.7,Deluxe Room,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,3.0,1,1,4827,202,1.0,0.7
+37,71,Schulz Hotel Berlin Wall at the East Side Gallery,"Friedrichshain-Kreuzberg, Berlin",US$119,8.5,Very good,23526 reviews,1 single bed,2.4,Small Single Room,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,1,1,23526,119,1.0,2.4
+38,72,HighPark Berlin am Potsdamer Platz,"Mitte, Berlin",US$231,8.8,Fabulous,4724 reviews,"2 beds (1 sofa bed, 1 large double)",0.8,King Studio with Sofa Bed,1 night, 1 adult,Berlin,Mitte,3.0,1,1,4724,231,2.0,0.8
+39,73,Hampton By Hilton Berlin City East Side Gallery,"Friedrichshain-Kreuzberg, Berlin",US$129,8.5,Very good,6710 reviews,1 large double bed,2.9,Queen Room - Mobility Access,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,1,1,6710,129,1.0,2.9
+40,74,Scandic Berlin Potsdamer Platz,"Mitte, Berlin",US$146,8.2,Very good,14562 reviews,1 extra-large double bed,0.8,Standard Double Room,1 night, 1 adult,Berlin,Mitte,2.0,1,1,14562,146,1.0,0.8
+41,75,Grand Hostel Berlin Classic,"Friedrichshain-Kreuzberg, Berlin",US$23,8.1,Very good,3170 reviews,1 single bed,1.3,Bed in 8-Bed Mixed Dormitory Room with Private Bathroom,1 night, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,1,1,3170,23,1.0,1.3
+42,76,Nena Hostel Berlin,"Mitte, Berlin",US$20,7.8,Good,3560 reviews,1 bunk bed,3.2,Bed in 6-Bed Mixed Dormitory Room,1 night, 1 adult,Berlin,Mitte,1.0,1,1,3560,20,1.0,3.2
+43,105,Le Narcisse Blanc,"7th arr., Paris",US$1588,9.2,Superb,577 reviews,1 double bed,1.9,Superior Double Room,2 nights, 2 adults,Paris,7th arr.,4.0,2,2,577,1588,1.0,1.9
+44,107,Hôtel Eden Opéra,"9th arr., Paris",US$393,8.1,Very good,1000 reviews,1 double bed,1.8,Double Room,2 nights, 2 adults,Paris,9th arr.,2.0,2,2,1000,393,1.0,1.8
+45,108,Hôtel Le Daum,"12th arr., Paris",US$404,8.3,Very good,1270 reviews,1 double bed,2.6,Comfort Double Room,2 nights, 2 adults,Paris,12th arr.,2.0,2,2,1270,404,1.0,2.6
+46,109,Odeon Hotel by Malone,"6th arr., Paris",US$510,8.4,Very good,1264 reviews,1 double bed,0.7,Classic Double Room,2 nights, 2 adults,Paris,6th arr.,2.0,2,2,1264,510,1.0,0.7
+47,110,Europe Saint Severin-Paris Notre Dame,"5th arr., Paris",US$457,8.4,Very good,2427 reviews,1 large double bed,0.4,Classic Room,2 nights, 2 adults,Paris,5th arr.,2.0,2,2,2427,457,1.0,0.4
+48,111,Hotel Des Deux Continents,"6th arr., Paris",US$626,8.1,Very good,1864 reviews,1 double bed,0.8,"""Cosy"" Room",2 nights, 2 adults,Paris,6th arr.,2.0,2,2,1864,626,1.0,0.8
+49,112,OKKO Hotels Paris Rosa Parks,"19th arr., Paris",US$315,8.2,Very good,811 reviews,1 large double bed,2.9,Classic Double Room,2 nights, 2 adults,Paris,19th arr.,2.0,2,2,811,315,1.0,2.9
+50,113,Austin's Arts Et Metiers Hotel,"3rd arr., Paris",US$609,8.2,Very good,2335 reviews,1 double bed,0.7,Double Room,2 nights, 2 adults,Paris,3rd arr.,2.0,2,2,2335,609,1.0,0.7
+51,114,Timhotel Montmartre,"18th arr., Paris",US$464,8.3,Very good,2532 reviews,1 large double bed,2.1,Comfort Double Room,2 nights, 2 adults,Paris,18th arr.,2.0,2,2,2532,464,1.0,2.1
+52,115,Hotel du Collectionneur,"8th arr., Paris",US$1171,8.3,Very good,3506 reviews,1 extra-large double bed,2.5,Deluxe King Room,2 nights, 2 adults,Paris,8th arr.,2.0,2,2,3506,1171,1.0,2.5
+53,116,Hôtel des Grands Hommes,"5th arr., Paris",US$618,8.9,Fabulous,391 reviews,Beds: 1 double or 2 singles,0.8,Classic Room,2 nights, 2 adults,Paris,5th arr.,3.0,2,2,391,618,1.0,0.8
+54,117,Maison Du Pré,"10th arr., Paris",US$244,7.6,Good,2130 reviews,1 double bed,1.6,Double Room,2 nights, 2 adults,Paris,10th arr.,1.0,2,2,2130,244,1.0,1.6
+55,118,citizenM Paris Gare de Lyon,"12th arr., Paris",US$493,8.3,Very good,10429 reviews,1 extra-large double bed,1.3,King Room,2 nights, 2 adults,Paris,12th arr.,2.0,2,2,10429,493,1.0,1.3
+56,119,Austin's Saint Lazare Hotel,"9th arr., Paris",US$506,8.1,Very good,2918 reviews,1 double bed,1.8,Double Room,2 nights, 2 adults,Paris,9th arr.,2.0,2,2,2918,506,1.0,1.8
+57,120,Pullman Paris Tour Eiffel,"15th arr., Paris",US$1062,8.3,Very good,6809 reviews,1 extra-large double bed,2.7,Classic King Room - Garden Side,2 nights, 2 adults,Paris,15th arr.,2.0,2,2,6809,1062,1.0,2.7
+58,122,French Theory,"5th arr., Paris",US$453,8.4,Very good,2576 reviews,2 single beds,0.7,Twin Room,2 nights, 2 adults,Paris,5th arr.,2.0,2,2,2576,453,2.0,0.7
+59,123,Paris j'Adore Hotel & Spa,"17th arr., Paris",US$1084,9.0,Superb,1112 reviews,1 large double bed,2.3,Executive – Passion Sensorial Shower,2 nights, 2 adults,Paris,17th arr.,4.0,2,2,1112,1084,1.0,2.3
+60,124,Hôtel Pilgrim,"5th arr., Paris",US$670,8.9,Fabulous,283 reviews,1 large double bed,0.5,Queen Bed Double Room,2 nights, 2 adults,Paris,5th arr.,3.0,2,2,283,670,1.0,0.5
+61,126,Hotel Bridget,"20th arr., Paris",US$390,8.1,Very good,1126 reviews,1 double bed,2.2,Classic double room,2 nights, 2 adults,Paris,20th arr.,2.0,2,2,1126,390,1.0,2.2
+62,127,Hôtel Tilde,"19th arr., Paris",US$275,7.7,Good,3302 reviews,1 double bed,2.3,Small Double Room,2 nights, 2 adults,Paris,19th arr.,1.0,2,2,3302,275,1.0,2.3
+63,131,Le Narcisse Blanc,"7th arr., Paris",US$1588,9.2,Superb,577 reviews,1 double bed,1.9,Superior Double Room,2 nights, 2 adults,Paris,7th arr.,4.0,2,2,577,1588,1.0,1.9
+64,132,Sonder L'Edmond Parc Monceau,"17th arr., Paris",US$475,8.5,Very good,1017 reviews,1 large double bed,2.5,Deluxe Queen Studio,2 nights, 2 adults,Paris,17th arr.,2.0,2,2,1017,475,1.0,2.5
+65,133,Hôtel Eden Opéra,"9th arr., Paris",US$393,8.1,Very good,1000 reviews,1 double bed,1.8,Double Room,2 nights, 2 adults,Paris,9th arr.,2.0,2,2,1000,393,1.0,1.8
+66,134,"Prince de Galles, a Luxury Collection hotel, Paris","8th arr., Paris",US$2777,8.6,Fabulous,102 reviews,1 large double bed,2.5,"Art Deco Queen, Guest room, 1 Queen",2 nights, 2 adults,Paris,8th arr.,3.0,2,2,102,2777,1.0,2.5
+67,135,Hôtel Le Daum,"12th arr., Paris",US$404,8.3,Very good,1270 reviews,1 double bed,2.6,Comfort Double Room,2 nights, 2 adults,Paris,12th arr.,2.0,2,2,1270,404,1.0,2.6
+68,136,Odeon Hotel by Malone,"6th arr., Paris",US$510,8.4,Very good,1264 reviews,1 double bed,0.7,Classic Double Room,2 nights, 2 adults,Paris,6th arr.,2.0,2,2,1264,510,1.0,0.7
+69,137,Hotel Des Deux Continents,"6th arr., Paris",US$626,8.1,Very good,1864 reviews,1 double bed,0.8,"""Cosy"" Room",2 nights, 2 adults,Paris,6th arr.,2.0,2,2,1864,626,1.0,0.8
+70,138,OKKO Hotels Paris Rosa Parks,"19th arr., Paris",US$315,8.2,Very good,811 reviews,1 large double bed,2.9,Classic Double Room,2 nights, 2 adults,Paris,19th arr.,2.0,2,2,811,315,1.0,2.9
+71,139,Austin's Arts Et Metiers Hotel,"3rd arr., Paris",US$609,8.2,Very good,2335 reviews,1 double bed,0.7,Double Room,2 nights, 2 adults,Paris,3rd arr.,2.0,2,2,2335,609,1.0,0.7
+72,140,Timhotel Montmartre,"18th arr., Paris",US$464,8.3,Very good,2532 reviews,1 large double bed,2.1,Comfort Double Room,2 nights, 2 adults,Paris,18th arr.,2.0,2,2,2532,464,1.0,2.1
+73,141,Hotel du Collectionneur,"8th arr., Paris",US$1171,8.3,Very good,3506 reviews,1 extra-large double bed,2.5,Deluxe King Room,2 nights, 2 adults,Paris,8th arr.,2.0,2,2,3506,1171,1.0,2.5
+74,142,Hôtel des Grands Hommes,"5th arr., Paris",US$618,8.9,Fabulous,391 reviews,Beds: 1 double or 2 singles,0.8,Classic Room,2 nights, 2 adults,Paris,5th arr.,3.0,2,2,391,618,1.0,0.8
+75,143,Maison Du Pré,"10th arr., Paris",US$244,7.6,Good,2130 reviews,1 double bed,1.6,Double Room,2 nights, 2 adults,Paris,10th arr.,1.0,2,2,2130,244,1.0,1.6
+76,144,citizenM Paris Gare de Lyon,"12th arr., Paris",US$493,8.3,Very good,10429 reviews,1 extra-large double bed,1.3,King Room,2 nights, 2 adults,Paris,12th arr.,2.0,2,2,10429,493,1.0,1.3
+77,145,Austin's Saint Lazare Hotel,"9th arr., Paris",US$506,8.1,Very good,2918 reviews,1 double bed,1.8,Double Room,2 nights, 2 adults,Paris,9th arr.,2.0,2,2,2918,506,1.0,1.8
+78,147,Pullman Paris Tour Eiffel,"15th arr., Paris",US$1062,8.3,Very good,6809 reviews,1 extra-large double bed,2.7,Classic King Room - Garden Side,2 nights, 2 adults,Paris,15th arr.,2.0,2,2,6809,1062,1.0,2.7
+79,148,Citadines Place d'Italie Paris,"13th arr., Paris",US$312,7.9,Good,3127 reviews,Beds: 1 double or 2 singles,1.8,Studio,2 nights, 2 adults,Paris,13th arr.,1.0,2,2,3127,312,1.5,1.8
+80,149,French Theory,"5th arr., Paris",US$453,8.4,Very good,2576 reviews,2 single beds,0.7,Twin Room,2 nights, 2 adults,Paris,5th arr.,2.0,2,2,2576,453,2.0,0.7
+81,150,Paris j'Adore Hotel & Spa,"17th arr., Paris",US$1084,9.0,Superb,1112 reviews,1 large double bed,2.3,Executive – Passion Sensorial Shower,2 nights, 2 adults,Paris,17th arr.,4.0,2,2,1112,1084,1.0,2.3
+82,151,Hôtel Pilgrim,"5th arr., Paris",US$670,8.9,Fabulous,283 reviews,1 large double bed,0.5,Queen Bed Double Room,2 nights, 2 adults,Paris,5th arr.,3.0,2,2,283,670,1.0,0.5
+83,152,Hotel Bridget,"20th arr., Paris",US$390,8.1,Very good,1126 reviews,1 double bed,2.2,Classic double room,2 nights, 2 adults,Paris,20th arr.,2.0,2,2,1126,390,1.0,2.2
+84,153,Odéon - Notre Dame Paris Climatisé-Wifi,"6th arr., Paris",US$514,9.1,Superb,349 reviews,"2 beds (1 sofa bed, 1 large double)",0.7,One-Bedroom Apartment,2 nights, 2 adults,Paris,6th arr.,4.0,2,2,349,514,2.0,0.7
+85,154,Hôtel Tilde,"19th arr., Paris",US$275,7.7,Good,3302 reviews,1 double bed,2.3,Small Double Room,2 nights, 2 adults,Paris,19th arr.,1.0,2,2,3302,275,1.0,2.3
+86,155,Best Stay Jeuneurs,"2nd arr., Paris",US$450,8.3,Very good,613 reviews,1 large double bed,1.0,Studio,2 nights, 2 adults,Paris,2nd arr.,2.0,2,2,613,450,1.0,1.0
+87,156,Hôtel Vaneau Saint Germain,"7th arr., Paris",US$457,8.1,Very good,1641 reviews,1 large double bed,1.5,Classic Double Room,2 nights, 2 adults,Paris,7th arr.,2.0,2,2,1641,457,1.0,1.5
+88,157,La Suite de Montorgueil,"2nd arr., Paris",US$488,9.6,Exceptional,7 reviews,"3 beds (2 sofa beds, 1 large double)",0.7,Deluxe Apartment,2 nights, 2 adults,Paris,2nd arr.,1.5,2,2,7,488,3.0,0.7
+89,184,Artim Hotel,"Tempelhof-Schöneberg, Berlin",US$187,7.6,Good,3633 reviews,1 large double bed,1.8,Standard Double Room,2 nights, 2 adults,Berlin,Tempelhof-Schöneberg,1.0,2,2,3633,187,1.0,1.8
+90,185,DoubleTree by Hilton Berlin Ku'damm,"Charlottenburg-Wilmersdorf, Berlin",US$377,8.8,Fabulous,1209 reviews,1 extra-large double bed,2.0,King Room,2 nights, 2 adults,Berlin,Charlottenburg-Wilmersdorf,3.0,2,2,1209,377,1.0,2.0
+91,188,"Hotel Berlin, Berlin, a member of Radisson Individuals","Mitte, Berlin",US$328,8.0,Very good,15429 reviews,1 large double bed,1.3,Cosy Small Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,15429,328,1.0,1.3
+92,189,Hotel AMANO Grand Central,"Mitte, Berlin",US$266,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,10745,266,1.0,0.9
+93,191,Pullman Berlin Schweizerhof,"Mitte, Berlin",US$291,8.5,Very good,5555 reviews,Beds: 1 double or 2 singles,1.5,Superior Double or Twin Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,5555,291,1.0,1.5
+94,195,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$305,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,14880,305,1.0,0.6
+95,199,Motel One Berlin-Alexanderplatz,"Mitte, Berlin",US$317,8.6,Fabulous,12868 reviews,1 large double bed,1.5,King Room,2 nights, 2 adults,Berlin,Mitte,3.0,2,2,12868,317,1.0,1.5
+96,201,Motel One Berlin-Spittelmarkt,"Mitte, Berlin",US$294,8.7,Fabulous,4924 reviews,1 large double bed,1.1,Room with King Size bed,2 nights, 2 adults,Berlin,Mitte,3.0,2,2,4924,294,1.0,1.1
+97,205,Scandic Berlin Potsdamer Platz,"Mitte, Berlin",US$319,8.2,Very good,14562 reviews,2 single beds,0.8,Twin Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,14562,319,2.0,0.8
+98,206,Precise Tale Berlin Potsdamer Platz,"Friedrichshain-Kreuzberg, Berlin",US$382,8.6,Fabulous,4827 reviews,1 extra-large double bed,0.7,Deluxe Room,2 nights, 2 adults,Berlin,Friedrichshain-Kreuzberg,3.0,2,2,4827,382,1.0,0.7
+99,208,HighPark Berlin am Potsdamer Platz,"Mitte, Berlin",US$464,8.8,Fabulous,4724 reviews,"2 beds (1 sofa bed, 1 large double)",0.8,King Studio with Sofa Bed,2 nights, 2 adults,Berlin,Mitte,3.0,2,2,4724,464,2.0,0.8
+100,210,Artim Hotel,"Tempelhof-Schöneberg, Berlin",US$187,7.6,Good,3633 reviews,1 large double bed,1.8,Standard Double Room,2 nights, 2 adults,Berlin,Tempelhof-Schöneberg,1.0,2,2,3633,187,1.0,1.8
+101,211,DoubleTree by Hilton Berlin Ku'damm,"Charlottenburg-Wilmersdorf, Berlin",US$377,8.8,Fabulous,1209 reviews,1 extra-large double bed,2.0,King Room,2 nights, 2 adults,Berlin,Charlottenburg-Wilmersdorf,3.0,2,2,1209,377,1.0,2.0
+102,212,Hotel Amelie Berlin,"Mitte, Berlin",US$252,6.3,Guest rating,1488 reviews,1 double bed,0.6,Double Room,2 nights, 2 adults,Berlin,Mitte,2.5,2,2,1488,252,1.0,0.6
+103,213,CALMA Berlin Mitte,"Mitte, Berlin",US$206,8.5,Very good,1736 reviews,1 double bed,0.9,Calma XS,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,1736,206,1.0,0.9
+104,214,Hotel AMANO Grand Central,"Mitte, Berlin",US$266,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,10745,266,1.0,0.9
+105,215,limehome Berlin Müllerstraße - Digital Access,"Mitte, Berlin",US$200,8.4,Very good,1856 reviews,1 large double bed,1.9,Suite M,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,1856,200,1.0,1.9
+106,216,Pullman Berlin Schweizerhof,"Mitte, Berlin",US$291,8.5,Very good,5555 reviews,Beds: 1 double or 2 singles,1.5,Superior Double or Twin Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,5555,291,1.0,1.5
+107,217,martas Hotel Allegra Berlin,"Mitte, Berlin",US$248,8.1,Very good,2859 reviews,1 large double bed,0.5,Double Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,2859,248,1.0,0.5
+108,218,Nu Wave Hotel Berlin,"Friedrichshain-Kreuzberg, Berlin",US$190,8.0,Very good,2536 reviews,1 double bed,3.0,Standard Double Room,2 nights, 2 adults,Berlin,Friedrichshain-Kreuzberg,2.0,2,2,2536,190,1.0,3.0
+109,219,Hotel Sachsenhof,"Tempelhof-Schöneberg, Berlin",US$234,8.4,Very good,5581 reviews,1 large double bed,1.6,Double Room,2 nights, 2 adults,Berlin,Tempelhof-Schöneberg,2.0,2,2,5581,234,1.0,1.6
+110,220,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$305,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,14880,305,1.0,0.6
+111,221,ibis budget Berlin Kurfürstendamm,"Tempelhof-Schöneberg, Berlin",US$203,7.6,Good,5906 reviews,1 double bed,1.6,Standard Double Room,2 nights, 2 adults,Berlin,Tempelhof-Schöneberg,1.0,2,2,5906,203,1.0,1.6
+112,222,Hotel Pension Xantener Eck,"Charlottenburg-Wilmersdorf, Berlin",US$144,6.9,Guest rating,1166 reviews,Multiple bed types,3.1,Triple Room,2 nights, 2 adults,Berlin,Charlottenburg-Wilmersdorf,1.0,2,2,1166,144,1.0,3.1
+113,223,Upper Room Hotel Kurfürstendamm,"Charlottenburg-Wilmersdorf, Berlin",US$174,7.1,Good,7447 reviews,Beds: 1 double or 2 singles,2.0,Standard Double Room,2 nights, 2 adults,Berlin,Charlottenburg-Wilmersdorf,1.0,2,2,7447,174,1.0,2.0
+114,224,Motel One Berlin-Alexanderplatz,"Mitte, Berlin",US$317,8.6,Fabulous,12868 reviews,1 large double bed,1.5,King Room,2 nights, 2 adults,Berlin,Mitte,3.0,2,2,12868,317,1.0,1.5
+115,225,Apple City Hotel,"Mitte, Berlin",US$174,6.9,Guest rating,2318 reviews,Beds: 1 double or 2 singles,1.7,Double or Twin Room,2 nights, 2 adults,Berlin,Mitte,3.0,2,2,2318,174,1.0,1.7
+116,226,Motel One Berlin-Spittelmarkt,"Mitte, Berlin",US$294,8.7,Fabulous,4924 reviews,1 large double bed,1.1,Room with King Size bed,2 nights, 2 adults,Berlin,Mitte,3.0,2,2,4924,294,1.0,1.1
+117,227,limehome Berlin Prenzlauer Allee - Digital Access,"Prenzlauer Berg, Berlin",US$244,8.3,Very good,1575 reviews,1 large double bed,2.0,Suite M,2 nights, 2 adults,Berlin,Prenzlauer Berg,2.0,2,2,1575,244,1.0,2.0
+118,228,Hotel Atlantic,"Neukölln, Berlin",US$139,7.6,Good,2238 reviews,Beds: 1 double or 2 singles,6.5,Double Room,2 nights, 2 adults,Berlin,Neukölln,1.0,2,2,2238,139,1.5,6.5
+119,229,Scandic Berlin Potsdamer Platz,"Mitte, Berlin",US$319,8.2,Very good,14562 reviews,2 single beds,0.8,Twin Room,2 nights, 2 adults,Berlin,Mitte,2.0,2,2,14562,319,2.0,0.8
+120,230,Grand Hyatt Berlin,"Mitte, Berlin",US$443,8.8,Fabulous,2778 reviews,2 single beds,0.6,Twin Room,2 nights, 2 adults,Berlin,Mitte,3.0,2,2,2778,443,2.0,0.6
+121,231,"Crowne Plaza Berlin City Centre Ku'damm, an IHG Hotel","Charlottenburg, Berlin",US$325,8.3,Very good,5809 reviews,1 extra-large double bed,1.8,Standard King Room,2 nights, 2 adults,Berlin,Charlottenburg,2.0,2,2,5809,325,1.0,1.8
+122,232,Pension Classic,"Tempelhof-Schöneberg, Berlin",US$228,8.2,Very good,1729 reviews,Multiple bed types,1.7,Comfort Double or Twin Room,2 nights, 2 adults,Berlin,Tempelhof-Schöneberg,2.0,2,2,1729,228,1.0,1.7
+123,263,Le Narcisse Blanc,"7th arr., Paris",US$647,9.2,Superb,577 reviews,1 double bed,1.9,Classic Double Room,1 night, 2 adults,Paris,7th arr.,4.0,1,2,577,647,1.0,1.9
+124,264,Atala powered by Sonder,"8th arr., Paris",US$164,8.1,Very good,1251 reviews,1 extra-large double bed,2.5,King Room,1 night, 2 adults,Paris,8th arr.,2.0,1,2,1251,164,1.0,2.5
+125,266,Melia Paris Champs Elysées,"16th arr., Paris",US$574,7.5,Good,357 reviews,1 extra-large double bed,3.2,Junior Suite,1 night, 2 adults,Paris,16th arr.,1.0,1,2,357,574,1.0,3.2
+126,267,Le Relais du Marais,"3rd arr., Paris",US$193,8.0,Very good,1694 reviews,1 large double bed,0.8,Double or Twin Room,1 night, 2 adults,Paris,3rd arr.,2.0,1,2,1694,193,1.0,0.8
+127,268,Hôtel Tilde,"19th arr., Paris",US$110,7.7,Good,3302 reviews,1 double bed,2.3,Small Double Room,1 night, 2 adults,Paris,19th arr.,1.0,1,2,3302,110,1.0,2.3
+128,269,Hôtel Chopin,"9th arr., Paris",US$152,8.3,Very good,993 reviews,"3 beds (2 singles, 1 double)",1.2,Double or Twin Room,1 night, 2 adults,Paris,9th arr.,2.0,1,2,993,152,3.0,1.2
+129,270,Grand Hotel Francais,"11th arr., Paris",US$185,8.5,Very good,800 reviews,1 double bed,1.8,Standard Double Room,1 night, 2 adults,Paris,11th arr.,2.0,1,2,800,185,1.0,1.8
+130,271,Chatillon Paris Montparnasse,"14th arr., Paris",US$106,8.1,Very good,1548 reviews,1 large double bed,2.5,Classic Double Room,1 night, 2 adults,Paris,14th arr.,2.0,1,2,1548,106,1.0,2.5
+131,272,Le Katorze Hôtel,"17th arr., Paris",US$189,8.3,Very good,1411 reviews,1 double bed,2.6,Double Room,1 night, 2 adults,Paris,17th arr.,2.0,1,2,1411,189,1.0,2.6
+132,273,Hôtel Moderniste,"15th arr., Paris",US$244,9.1,Superb,1666 reviews,1 double bed,3.0,Small Double Room,1 night, 2 adults,Paris,15th arr.,4.0,1,2,1666,244,1.0,3.0
+133,274,Europe Saint Severin-Paris Notre Dame,"5th arr., Paris",US$188,8.4,Very good,2427 reviews,1 large double bed,0.4,Classic Room,1 night, 2 adults,Paris,5th arr.,2.0,1,2,2427,188,1.0,0.4
+134,275,Hotel Trianon Rive Gauche,"6th arr., Paris",US$297,8.0,Very good,4517 reviews,1 double bed,0.7,Classic Double Room,1 night, 2 adults,Paris,6th arr.,2.0,1,2,4517,297,1.0,0.7
+135,276,Hôtel Le Daum,"12th arr., Paris",US$190,8.3,Very good,1270 reviews,1 double bed,2.6,Comfort Double Room,1 night, 2 adults,Paris,12th arr.,2.0,1,2,1270,190,1.0,2.6
+136,277,Hotel Choiseul Opera,"2nd arr., Paris",US$184,8.4,Very good,5271 reviews,1 double bed,1.2,Standard Double Room,1 night, 2 adults,Paris,2nd arr.,2.0,1,2,5271,184,1.0,1.2
+137,279,Hôtel Eden Opéra,"9th arr., Paris",US$191,8.1,Very good,1000 reviews,1 double bed,1.8,Double Room,1 night, 2 adults,Paris,9th arr.,2.0,1,2,1000,191,1.0,1.8
+138,280,La Belle Ville,"19th arr., Paris",US$208,8.7,Fabulous,3112 reviews,1 large double bed,2.8,Double Room,1 night, 2 adults,Paris,19th arr.,3.0,1,2,3112,208,1.0,2.8
+139,281,Timhotel Montmartre,"18th arr., Paris",US$205,8.3,Very good,2532 reviews,1 large double bed,2.1,Comfort Double Room,1 night, 2 adults,Paris,18th arr.,2.0,1,2,2532,205,1.0,2.1
+140,284,123paris city,"3rd arr., Paris",US$236,8.3,Very good,453 reviews,"2 beds (1 sofa bed, 1 large double)",0.6,Superior Apartment,1 night, 2 adults,Paris,3rd arr.,2.0,1,2,453,236,2.0,0.6
+141,286,Hôtel La Canopée,"8th arr., Paris",US$211,8.9,Fabulous,1320 reviews,1 double bed,1.9,Small Double Room - Riviera,1 night, 2 adults,Paris,8th arr.,3.0,1,2,1320,211,1.0,1.9
+142,290,Le Narcisse Blanc,"7th arr., Paris",US$647,9.2,Superb,577 reviews,1 double bed,1.9,Classic Double Room,1 night, 2 adults,Paris,7th arr.,4.0,1,2,577,647,1.0,1.9
+143,291,Atala powered by Sonder,"8th arr., Paris",US$164,8.1,Very good,1251 reviews,1 extra-large double bed,2.5,King Room,1 night, 2 adults,Paris,8th arr.,2.0,1,2,1251,164,1.0,2.5
+144,293,Melia Paris Champs Elysées,"16th arr., Paris",US$574,7.5,Good,357 reviews,1 extra-large double bed,3.2,Junior Suite,1 night, 2 adults,Paris,16th arr.,1.0,1,2,357,574,1.0,3.2
+145,294,Le Relais du Marais,"3rd arr., Paris",US$193,8.0,Very good,1694 reviews,1 large double bed,0.8,Double or Twin Room,1 night, 2 adults,Paris,3rd arr.,2.0,1,2,1694,193,1.0,0.8
+146,295,Hôtel Tilde,"19th arr., Paris",US$110,7.7,Good,3302 reviews,1 double bed,2.3,Small Double Room,1 night, 2 adults,Paris,19th arr.,1.0,1,2,3302,110,1.0,2.3
+147,296,Hôtel Chopin,"9th arr., Paris",US$152,8.3,Very good,993 reviews,"3 beds (2 singles, 1 double)",1.2,Double or Twin Room,1 night, 2 adults,Paris,9th arr.,2.0,1,2,993,152,3.0,1.2
+148,297,Grand Hotel Francais,"11th arr., Paris",US$185,8.5,Very good,800 reviews,1 double bed,1.8,Standard Double Room,1 night, 2 adults,Paris,11th arr.,2.0,1,2,800,185,1.0,1.8
+149,298,Chatillon Paris Montparnasse,"14th arr., Paris",US$106,8.1,Very good,1548 reviews,1 large double bed,2.5,Classic Double Room,1 night, 2 adults,Paris,14th arr.,2.0,1,2,1548,106,1.0,2.5
+150,299,Le Katorze Hôtel,"17th arr., Paris",US$189,8.3,Very good,1411 reviews,1 double bed,2.6,Double Room,1 night, 2 adults,Paris,17th arr.,2.0,1,2,1411,189,1.0,2.6
+151,300,Hôtel Moderniste,"15th arr., Paris",US$244,9.1,Superb,1666 reviews,1 double bed,3.0,Small Double Room,1 night, 2 adults,Paris,15th arr.,4.0,1,2,1666,244,1.0,3.0
+152,301,Hotel Trianon Rive Gauche,"6th arr., Paris",US$297,8.0,Very good,4517 reviews,1 double bed,0.7,Classic Double Room,1 night, 2 adults,Paris,6th arr.,2.0,1,2,4517,297,1.0,0.7
+153,302,Hôtel Le Daum,"12th arr., Paris",US$190,8.3,Very good,1270 reviews,1 double bed,2.6,Comfort Double Room,1 night, 2 adults,Paris,12th arr.,2.0,1,2,1270,190,1.0,2.6
+154,303,Hotel Choiseul Opera,"2nd arr., Paris",US$184,8.4,Very good,5271 reviews,1 double bed,1.2,Standard Double Room,1 night, 2 adults,Paris,2nd arr.,2.0,1,2,5271,184,1.0,1.2
+155,304,Parc Hotel,"14th arr., Paris",US$103,7.6,Good,1147 reviews,1 double bed,2.5,Business Double Room,1 night, 2 adults,Paris,14th arr.,1.0,1,2,1147,103,1.0,2.5
+156,305,Hôtel Eden Opéra,"9th arr., Paris",US$191,8.1,Very good,1000 reviews,1 double bed,1.8,Double Room,1 night, 2 adults,Paris,9th arr.,2.0,1,2,1000,191,1.0,1.8
+157,306,La Belle Ville,"19th arr., Paris",US$208,8.7,Fabulous,3112 reviews,1 large double bed,2.8,Double Room,1 night, 2 adults,Paris,19th arr.,3.0,1,2,3112,208,1.0,2.8
+158,307,Timhotel Montmartre,"18th arr., Paris",US$205,8.3,Very good,2532 reviews,1 large double bed,2.1,Comfort Double Room,1 night, 2 adults,Paris,18th arr.,2.0,1,2,2532,205,1.0,2.1
+159,308,Hôtel Bedford,"8th arr., Paris",US$217,8.3,Very good,2812 reviews,Multiple bed types,1.7,Superior Room,1 night, 2 adults,Paris,8th arr.,2.0,1,2,2812,217,1.0,1.7
+160,309,citizenM Paris Gare de Lyon,"12th arr., Paris",US$252,8.3,Very good,10429 reviews,1 extra-large double bed,1.3,King Room,1 night, 2 adults,Paris,12th arr.,2.0,1,2,10429,252,1.0,1.3
+161,310,Grand Hotel Dore,"12th arr., Paris",US$176,8.2,Very good,1155 reviews,1 double bed,2.4,Double Room,1 night, 2 adults,Paris,12th arr.,2.0,1,2,1155,176,1.0,2.4
+162,312,Pavillon Monceau,"17th arr., Paris",US$150,7.9,Good,1928 reviews,Beds: 1 double or 2 singles,2.8,Large Double or Twin Room,1 night, 2 adults,Paris,17th arr.,1.0,1,2,1928,150,1.0,2.8
+163,313,Hôtel La Canopée,"8th arr., Paris",US$211,8.9,Fabulous,1320 reviews,1 double bed,1.9,Small Double Room - Riviera,1 night, 2 adults,Paris,8th arr.,3.0,1,2,1320,211,1.0,1.9
+164,314,Hotel Hippodrome,"18th arr., Paris",US$114,7.5,Good,885 reviews,1 double bed,2.2,Double Room,1 night, 2 adults,Paris,18th arr.,1.0,1,2,885,114,1.0,2.2
+165,315,Montparnasse Daguerre,"14th arr., Paris",US$171,8.0,Very good,2186 reviews,1 double bed,1.9,Deluxe Double Room,1 night, 2 adults,Paris,14th arr.,2.0,1,2,2186,171,1.0,1.9
+166,316,Mode Paris Aparthotel,"16th arr., Paris",US$393,9.2,Superb,479 reviews,1 double bed,3.1,Superior Studio,1 night, 2 adults,Paris,16th arr.,4.0,1,2,479,393,1.0,3.1
+167,344,London Comfort Stay,"Islington, London",US$107,8.8,Fabulous,86 reviews,1 double bed,3.9,Double Room,1 night, 2 adults,London,Islington,3.0,1,2,86,107,1.0,3.9
+168,345,Sonder Camden Road,"Camden, London",US$124,8.0,Very good,1951 reviews,1 double bed,2.8,Double Room,1 night, 2 adults,London,Camden,2.0,1,2,1951,124,1.0,2.8
+169,346,Central London Luxury Studios Fulham Close to Underground Newly Refurbished,"Hammersmith and Fulham, London",US$70,8.7,Fabulous,637 reviews,"2 beds (1 double, 1 sofa bed)",3.7,Studio with Garden View,1 night, 2 adults,London,Hammersmith and Fulham,3.0,1,2,637,70,2.0,3.7
+170,347,JW Marriott Grosvenor House London,"Westminster Borough, London",US$573,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",1 night, 2 adults,London,Westminster Borough,2.0,1,2,1229,573,1.0,1.2
+171,348,LUXE HILL GETAWAY,"Muswell Hill, London",US$159,8.2,Very good,152 reviews,1 double bed,6.7,Double Room with Garden View,1 night, 2 adults,London,Muswell Hill,2.0,1,2,152,159,1.0,6.7
+172,349,Tony's House Hotel,"Westminster Borough, London",US$107,6.1,Guest rating,1488 reviews,1 double bed,2.0,Double Room,1 night, 2 adults,London,Westminster Borough,2.2,1,2,1488,107,1.0,2.0
+173,350,Tran UK Homestay,"Newham, London",US$83,6.2,Guest rating,17 reviews,1 double bed,6.1,Double Room,1 night, 2 adults,London,Newham,2.4,1,2,17,83,1.0,6.1
+174,351,"Stylish Studio Apartments, Willesden","Brent, London",US$102,6.9,Guest rating,16 reviews,1 double bed,6.1,Deluxe Studio,1 night, 2 adults,London,Brent,2.6,1,2,16,102,1.0,6.1
+175,352,The Shard Vision Apartment,"Southwark, London",US$124,6.7,Guest rating,16 reviews,1 double bed,1.7,One-Bedroom Apartment,1 night, 2 adults,London,Southwark,2.8,1,2,16,124,1.0,1.7
+176,353,*Super central 20min to Big Ben*,"Brent, London",US$170,8.9,Fabulous,7 reviews,"6 beds (4 singles, 2 doubles)",5.0,Three-Bedroom Apartment,1 night, 2 adults,London,Brent,3.0,1,2,7,170,6.0,5.0
+177,354,Jubilee Rooms 15 Minutes Central London,"Brent, London",US$97,7.6,Good,11 reviews,1 double bed,5.1,Standard Double Room,1 night, 2 adults,London,Brent,1.0,1,2,11,97,1.0,5.1
+178,355,Kingdom Holiday - 12 Hamilton,"Tower Hamlets, London",US$63,8.8,Fabulous,84 reviews,1 large double bed,4.5,Standard King Room,1 night, 2 adults,London,Tower Hamlets,3.0,1,2,84,63,1.0,4.5
+179,356,Centra Studios,London,US$114,8.9,Fabulous,299 reviews,1 double bed,6.0,King Studio,1 night, 2 adults,London,London,3.0,1,2,299,114,1.0,6.0
+180,357,Liberty Street,"Lambeth, London",US$100,8.9,Fabulous,89 reviews,1 large double bed,2.2,Large Double Room with Shared Bathroom,1 night, 2 adults,London,Lambeth,3.0,1,2,89,100,1.0,2.2
+181,358,The Z Hotel Strand,"Westminster Borough, London",US$83,8.5,Very good,11905 reviews,1 double bed,0.3,Double Room (Without Window),1 night, 2 adults,London,Westminster Borough,2.0,1,2,11905,83,1.0,0.3
+182,359,The Z Hotel Trafalgar,"Westminster Borough, London",US$89,8.4,Very good,14318 reviews,1 double bed,0.2,Z Inside Double (without a window),1 night, 2 adults,London,Westminster Borough,2.0,1,2,14318,89,1.0,0.2
+183,361,The Z Hotel Piccadilly,"Westminster Borough, London",US$96,7.9,Good,10612 reviews,1 double bed,0.2,Double Room without Window,1 night, 2 adults,London,Westminster Borough,1.0,1,2,10612,96,1.0,0.2
+184,364,Hampton By Hilton London City,"Tower Hamlets, London",US$134,8.5,Very good,2148 reviews,1 large double bed,2.6,Queen Room - Mobility Access,1 night, 2 adults,London,Tower Hamlets,2.0,1,2,2148,134,1.0,2.6
+185,371,London Comfort Stay,"Islington, London",US$107,8.8,Fabulous,86 reviews,1 double bed,3.9,Double Room,1 night, 2 adults,London,Islington,3.0,1,2,86,107,1.0,3.9
+186,372,Sonder Camden Road,"Camden, London",US$124,8.0,Very good,1951 reviews,1 double bed,2.8,Double Room,1 night, 2 adults,London,Camden,2.0,1,2,1951,124,1.0,2.8
+187,374,JW Marriott Grosvenor House London,"Westminster Borough, London",US$573,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",1 night, 2 adults,London,Westminster Borough,2.0,1,2,1229,573,1.0,1.2
+188,375,LUXE HILL GETAWAY,"Muswell Hill, London",US$159,8.2,Very good,152 reviews,1 double bed,6.7,Double Room with Garden View,1 night, 2 adults,London,Muswell Hill,2.0,1,2,152,159,1.0,6.7
+189,380,*Super central 20min to Big Ben*,"Brent, London",US$170,8.9,Fabulous,7 reviews,"6 beds (4 singles, 2 doubles)",5.0,Three-Bedroom Apartment,1 night, 2 adults,London,Brent,3.0,1,2,7,170,6.0,5.0
+190,381,Jubilee Rooms 15 Minutes Central London,"Brent, London",US$97,7.6,Good,11 reviews,1 double bed,5.1,Standard Double Room,1 night, 2 adults,London,Brent,1.0,1,2,11,97,1.0,5.1
+191,382,Kingdom Holiday - 12 Hamilton,"Tower Hamlets, London",US$63,8.8,Fabulous,84 reviews,1 large double bed,4.5,Standard King Room,1 night, 2 adults,London,Tower Hamlets,3.0,1,2,84,63,1.0,4.5
+192,383,Centra Studios,London,US$114,8.9,Fabulous,299 reviews,1 double bed,6.0,King Studio,1 night, 2 adults,London,London,3.0,1,2,299,114,1.0,6.0
+193,384,Liberty Street,"Lambeth, London",US$100,8.9,Fabulous,89 reviews,1 large double bed,2.2,Large Double Room with Shared Bathroom,1 night, 2 adults,London,Lambeth,3.0,1,2,89,100,1.0,2.2
+194,386,Park Plaza Westminster Bridge London,"Lambeth, London",US$317,8.3,Very good,25131 reviews,1 double bed,0.6,Superior Double Room with Internal View,1 night, 2 adults,London,Lambeth,2.0,1,2,25131,317,1.0,0.6
+195,387,The Z Hotel Piccadilly,"Westminster Borough, London",US$96,7.9,Good,10612 reviews,1 double bed,0.2,Double Room without Window,1 night, 2 adults,London,Westminster Borough,1.0,1,2,10612,96,1.0,0.2
+196,389,The Z Hotel Trafalgar,"Westminster Borough, London",US$89,8.4,Very good,14318 reviews,1 double bed,0.2,Z Inside Double (without a window),1 night, 2 adults,London,Westminster Borough,2.0,1,2,14318,89,1.0,0.2
+197,390,Leonardo Royal London St Paul’s,"City of London, London",US$289,8.6,Fabulous,11072 reviews,1 extra-large double bed,1.3,Superior King Room,1 night, 2 adults,London,City of London,3.0,1,2,11072,289,1.0,1.3
+198,391,The Gate ApartHotel London,"Tower Hamlets, London",US$203,8.7,Fabulous,3235 reviews,1 large double bed,2.6,Studio,1 night, 2 adults,London,Tower Hamlets,3.0,1,2,3235,203,1.0,2.6
+199,392,The Beaufort,"Kensington and Chelsea, London",US$182,7.4,Good,2177 reviews,1 double bed,1.7,Double Room,1 night, 2 adults,London,Kensington and Chelsea,1.0,1,2,2177,182,1.0,1.7
+200,424,Artim Hotel,"Tempelhof-Schöneberg, Berlin",US$187,7.6,Good,3633 reviews,1 large double bed,1.8,Standard Double Room,2 nights, 1 adult,Berlin,Tempelhof-Schöneberg,1.0,2,1,3633,187,1.0,1.8
+201,426,Hotel Amelie Berlin,"Mitte, Berlin",US$198,6.3,Guest rating,1488 reviews,1 single bed,0.6,Single Room,2 nights, 1 adult,Berlin,Mitte,1.5,2,1,1488,198,1.0,0.6
+202,428,"Hotel Berlin, Berlin, a member of Radisson Individuals","Mitte, Berlin",US$328,8.0,Very good,15429 reviews,1 large double bed,1.3,Cosy Small Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,15429,328,1.0,1.3
+203,429,Hotel 38,"Mitte, Berlin",US$223,8.4,Very good,4502 reviews,1 single bed,0.9,Single Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,4502,223,1.0,0.9
+204,430,Motel One Berlin-Spittelmarkt,"Mitte, Berlin",US$248,8.7,Fabulous,4924 reviews,1 large double bed,1.1,Room with King Size bed,2 nights, 1 adult,Berlin,Mitte,3.0,2,1,4924,248,1.0,1.1
+205,431,Motel One Berlin-Alexanderplatz,"Mitte, Berlin",US$271,8.6,Fabulous,12868 reviews,1 large double bed,1.5,Queen Room,2 nights, 1 adult,Berlin,Mitte,3.0,2,1,12868,271,1.0,1.5
+206,432,Hotel AMANO Grand Central,"Mitte, Berlin",US$266,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,10745,266,1.0,0.9
+207,433,Park Inn by Radisson Berlin Alexanderplatz,"Mitte, Berlin",US$312,7.4,Good,21168 reviews,Beds: 1 double or 2 singles,1.6,Double Room,2 nights, 1 adult,Berlin,Mitte,1.0,2,1,21168,312,1.5,1.6
+208,434,Scandic Berlin Potsdamer Platz,"Mitte, Berlin",US$297,8.2,Very good,14562 reviews,2 single beds,0.8,Twin Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,14562,297,2.0,0.8
+209,436,Schulz Hotel Berlin Wall at the East Side Gallery,"Friedrichshain-Kreuzberg, Berlin",US$236,8.5,Very good,23526 reviews,1 single bed,2.4,Small Single Room,2 nights, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,2,1,23526,236,1.0,2.4
+210,438,Motel One Berlin-Tiergarten,"Tempelhof-Schöneberg, Berlin",US$225,8.2,Very good,4795 reviews,1 large double bed,1.5,Room with King Size bed,2 nights, 1 adult,Berlin,Tempelhof-Schöneberg,2.0,2,1,4795,225,1.0,1.5
+211,439,Motel One Berlin-Bellevue,"Mitte, Berlin",US$225,8.2,Very good,4193 reviews,1 large double bed,0.9,Room with King Size bed,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,4193,225,1.0,0.9
+212,442,Generator Berlin Mitte,"Mitte, Berlin",US$53,7.5,Good,5522 reviews,1 bunk bed,0.9,Bed in 6-Bed Female Dormitory Room with Private Bathroom,2 nights, 1 adult,Berlin,Mitte,1.0,2,1,5522,53,1.0,0.9
+213,443,Nena Hostel Berlin,"Mitte, Berlin",US$38,7.8,Good,3560 reviews,1 bunk bed,3.2,Bed in 6-Bed Mixed Dormitory Room,2 nights, 1 adult,Berlin,Mitte,1.0,2,1,3560,38,1.0,3.2
+214,444,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$305,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,14880,305,1.0,0.6
+215,445,Hampton by Hilton Berlin City Centre Alexanderplatz,"Mitte, Berlin",US$328,8.1,Very good,15408 reviews,1 large double bed,1.9,Queen Room - Mobility Access,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,15408,328,1.0,1.9
+216,447,a&o Berlin Hauptbahnhof,"Mitte, Berlin",US$51,7.3,Good,9768 reviews,1 bunk bed,1.0,Bed in 8-Bed Dormitory Room,2 nights, 1 adult,Berlin,Mitte,1.0,2,1,9768,51,1.0,1.0
+217,451,Artim Hotel,"Tempelhof-Schöneberg, Berlin",US$187,7.6,Good,3633 reviews,1 large double bed,1.8,Standard Double Room,2 nights, 1 adult,Berlin,Tempelhof-Schöneberg,1.0,2,1,3633,187,1.0,1.8
+218,452,DoubleTree by Hilton Berlin Ku'damm,"Charlottenburg-Wilmersdorf, Berlin",US$377,8.8,Fabulous,1209 reviews,1 single bed,2.0,Twin Room,2 nights, 1 adult,Berlin,Charlottenburg-Wilmersdorf,3.0,2,1,1209,377,1.0,2.0
+219,453,Hotel Amelie Berlin,"Mitte, Berlin",US$198,6.3,Guest rating,1488 reviews,1 single bed,0.6,Single Room,2 nights, 1 adult,Berlin,Mitte,2.5,2,1,1488,198,1.0,0.6
+220,454,Hotel 38,"Mitte, Berlin",US$223,8.4,Very good,4502 reviews,1 single bed,0.9,Single Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,4502,223,1.0,0.9
+221,455,Motel One Berlin-Alexanderplatz,"Mitte, Berlin",US$271,8.6,Fabulous,12868 reviews,1 large double bed,1.5,Queen Room,2 nights, 1 adult,Berlin,Mitte,3.0,2,1,12868,271,1.0,1.5
+222,456,Pullman Berlin Schweizerhof,"Mitte, Berlin",US$291,8.5,Very good,5555 reviews,Beds: 1 double or 2 singles,1.5,Superior Double or Twin Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,5555,291,1.0,1.5
+223,457,Schulz Hotel Berlin Wall at the East Side Gallery,"Friedrichshain-Kreuzberg, Berlin",US$236,8.5,Very good,23526 reviews,1 single bed,2.4,Small Single Room,2 nights, 1 adult,Berlin,Friedrichshain-Kreuzberg,2.0,2,1,23526,236,1.0,2.4
+224,458,Motel One Berlin-Spittelmarkt,"Mitte, Berlin",US$248,8.7,Fabulous,4924 reviews,1 large double bed,1.1,Room with King Size bed,2 nights, 1 adult,Berlin,Mitte,3.0,2,1,4924,248,1.0,1.1
+225,460,Scandic Berlin Potsdamer Platz,"Mitte, Berlin",US$297,8.2,Very good,14562 reviews,2 single beds,0.8,Twin Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,14562,297,2.0,0.8
+226,461,"Hotel Berlin, Berlin, a member of Radisson Individuals","Mitte, Berlin",US$328,8.0,Very good,15429 reviews,1 large double bed,1.3,Cosy Small Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,15429,328,1.0,1.3
+227,465,Hotel AMANO Grand Central,"Mitte, Berlin",US$266,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,10745,266,1.0,0.9
+228,468,Motel One Berlin-Tiergarten,"Tempelhof-Schöneberg, Berlin",US$225,8.2,Very good,4795 reviews,1 large double bed,1.5,Room with King Size bed,2 nights, 1 adult,Berlin,Tempelhof-Schöneberg,2.0,2,1,4795,225,1.0,1.5
+229,472,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$305,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,14880,305,1.0,0.6
+230,474,Grimm's Potsdamer Platz,"Mitte, Berlin",US$284,8.8,Fabulous,8372 reviews,1 single bed,0.9,Single Room,2 nights, 1 adult,Berlin,Mitte,3.0,2,1,8372,284,1.0,0.9
+231,476,Motel One Berlin-Bellevue,"Mitte, Berlin",US$225,8.2,Very good,4193 reviews,1 large double bed,0.9,Room with King Size bed,2 nights, 1 adult,Berlin,Mitte,2.0,2,1,4193,225,1.0,0.9
+232,506,Sonder Camden Road,"Camden, London",US$115,8.0,Very good,1951 reviews,1 single bed,2.8,Single Room,1 night, 1 adult,London,Camden,2.0,1,1,1951,115,1.0,2.8
+233,507,Central London Luxury Studios Fulham Close to Underground Newly Refurbished,"Hammersmith and Fulham, London",US$63,8.7,Fabulous,637 reviews,1 single bed,3.7,Budget Single Room,1 night, 1 adult,London,Hammersmith and Fulham,3.0,1,1,637,63,1.0,3.7
+234,508,JW Marriott Grosvenor House London,"Westminster Borough, London",US$573,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",1 night, 1 adult,London,Westminster Borough,2.0,1,1,1229,573,1.0,1.2
+235,514,*Super central 20min to Big Ben*,"Brent, London",US$158,8.9,Fabulous,7 reviews,"6 beds (4 singles, 2 doubles)",5.0,Three-Bedroom Apartment,1 night, 1 adult,London,Brent,3.0,1,1,7,158,6.0,5.0
+236,515,Jubilee Rooms 15 Minutes Central London,"Brent, London",US$97,7.6,Good,11 reviews,1 double bed,5.1,Standard Double Room,1 night, 1 adult,London,Brent,1.0,1,1,11,97,1.0,5.1
+237,517,Centra Studios,London,US$114,8.9,Fabulous,299 reviews,1 double bed,6.0,King Studio,1 night, 1 adult,London,London,3.0,1,1,299,114,1.0,6.0
+238,518,Liberty Street,"Lambeth, London",US$90,8.9,Fabulous,89 reviews,1 large double bed,2.2,Large Double Room with Shared Bathroom,1 night, 1 adult,London,Lambeth,3.0,1,1,89,90,1.0,2.2
+239,519,The Z Hotel Trafalgar,"Westminster Borough, London",US$89,8.4,Very good,14318 reviews,1 double bed,0.2,Z Inside Double (without a window),1 night, 1 adult,London,Westminster Borough,2.0,1,1,14318,89,1.0,0.2
+240,520,Apex Temple Court Hotel,"City of London, London",US$160,8.9,Fabulous,3930 reviews,1 extra-large double bed,0.9,City King Room,1 night, 1 adult,London,City of London,3.0,1,1,3930,160,1.0,0.9
+241,521,The Z Hotel Piccadilly,"Westminster Borough, London",US$96,7.9,Good,10612 reviews,1 double bed,0.2,Double Room without Window,1 night, 1 adult,London,Westminster Borough,1.0,1,1,10612,96,1.0,0.2
+242,522,YOTEL London City,"Islington, London",US$161,8.0,Very good,6626 reviews,1 double bed,1.4,Queen Room,1 night, 1 adult,London,Islington,2.0,1,1,6626,161,1.0,1.4
+243,523,St Martins Lane London,"Westminster Borough, London",US$306,8.7,Fabulous,5577 reviews,1 large double bed,0.2,Standard Queen Room,1 night, 1 adult,London,Westminster Borough,3.0,1,1,5577,306,1.0,0.2
+244,524,"The Trafalgar St. James, London Curio collection by Hilton","Westminster Borough, London",US$306,8.8,Fabulous,1405 reviews,1 large double bed,350.0,Trafalgar Queen Room,1 night, 1 adult,London,Westminster Borough,3.0,1,1,1405,306,1.0,350.0
+245,525,citizenM London Bankside,"Southwark, London",US$161,8.6,Fabulous,3612 reviews,1 extra-large double bed,1.3,King Room,1 night, 1 adult,London,Southwark,3.0,1,1,3612,161,1.0,1.3
+246,526,Park Plaza Westminster Bridge London,"Lambeth, London",US$317,8.3,Very good,25131 reviews,1 double bed,0.6,Superior Double Room with Internal View,1 night, 1 adult,London,Lambeth,2.0,1,1,25131,317,1.0,0.6
+247,527,Leonardo Royal London St Paul’s,"City of London, London",US$289,8.6,Fabulous,11072 reviews,1 extra-large double bed,1.3,Superior King Room,1 night, 1 adult,London,City of London,3.0,1,1,11072,289,1.0,1.3
+248,528,The Royal Foundation of St Katharine,"Tower Hamlets, London",US$124,8.5,Very good,2352 reviews,1 single bed,3.7,Single Room,1 night, 1 adult,London,Tower Hamlets,2.0,1,1,2352,124,1.0,3.7
+249,529,The Z Hotel Holborn,"Camden, London",US$89,8.1,Very good,17047 reviews,1 double bed,0.7,Z Inside Double (without a window),1 night, 1 adult,London,Camden,2.0,1,1,17047,89,1.0,0.7
+250,530,"Montcalm Royal London House, London City","Islington, London",US$211,8.3,Very good,10558 reviews,1 double bed,2.1,Double Room,1 night, 1 adult,London,Islington,2.0,1,1,10558,211,1.0,2.1
+251,531,"The Rathbone Hotel, Fitzrovia","Westminster Borough, London",US$228,8.5,Very good,1464 reviews,1 single bed,0.9,Single Room,1 night, 1 adult,London,Westminster Borough,2.0,1,1,1464,228,1.0,0.9
+252,532,The Gate ApartHotel London,"Tower Hamlets, London",US$203,8.7,Fabulous,3235 reviews,1 large double bed,2.6,Studio,1 night, 1 adult,London,Tower Hamlets,3.0,1,1,3235,203,1.0,2.6
+253,533,London Comfort Stay,"Islington, London",US$102,8.8,Fabulous,86 reviews,1 double bed,3.9,Double Room,1 night, 1 adult,London,Islington,3.0,1,1,86,102,1.0,3.9
+254,534,Sonder Camden Road,"Camden, London",US$115,8.0,Very good,1951 reviews,1 single bed,2.8,Single Room,1 night, 1 adult,London,Camden,2.0,1,1,1951,115,1.0,2.8
+255,535,Central London Luxury Studios Fulham Close to Underground Newly Refurbished,"Hammersmith and Fulham, London",US$63,8.7,Fabulous,637 reviews,1 single bed,3.7,Budget Single Room,1 night, 1 adult,London,Hammersmith and Fulham,3.0,1,1,637,63,1.0,3.7
+256,536,JW Marriott Grosvenor House London,"Westminster Borough, London",US$573,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",1 night, 1 adult,London,Westminster Borough,2.0,1,1,1229,573,1.0,1.2
+257,537,LUXE HILL GETAWAY,"Muswell Hill, London",US$135,8.2,Very good,152 reviews,1 double bed,6.7,Double Room with Garden View,1 night, 1 adult,London,Muswell Hill,2.0,1,1,152,135,1.0,6.7
+258,538,Tony's House Hotel,"Westminster Borough, London",US$107,6.1,Review score,1488 reviews,1 double bed,2.0,Double Room,1 night, 1 adult,London,Westminster Borough,2.2,1,1,1488,107,1.0,2.0
+259,539,Tran UK Homestay,"Newham, London",US$83,6.2,Review score,17 reviews,1 double bed,6.1,Double Room,1 night, 1 adult,London,Newham,2.4,1,1,17,83,1.0,6.1
+260,540,"Stylish Studio Apartments, Willesden","Brent, London",US$102,6.9,Review score,16 reviews,1 double bed,6.1,Deluxe Studio,1 night, 1 adult,London,Brent,2.6,1,1,16,102,1.0,6.1
+261,541,The Shard Vision Apartment,"Southwark, London",US$117,6.7,Review score,16 reviews,1 double bed,1.7,One-Bedroom Apartment,1 night, 1 adult,London,Southwark,2.8,1,1,16,117,1.0,1.7
+262,542,*Super central 20min to Big Ben*,"Brent, London",US$158,8.9,Fabulous,7 reviews,"6 beds (4 singles, 2 doubles)",5.0,Three-Bedroom Apartment,1 night, 1 adult,London,Brent,3.0,1,1,7,158,6.0,5.0
+263,543,Jubilee Rooms 15 Minutes Central London,"Brent, London",US$97,7.6,Good,11 reviews,1 double bed,5.1,Standard Double Room,1 night, 1 adult,London,Brent,1.0,1,1,11,97,1.0,5.1
+264,544,Kingdom Holiday - 12 Hamilton,"Tower Hamlets, London",US$61,8.8,Fabulous,84 reviews,1 large double bed,4.5,Double Room,1 night, 1 adult,London,Tower Hamlets,3.0,1,1,84,61,1.0,4.5
+265,545,Centra Studios,London,US$114,8.9,Fabulous,299 reviews,1 double bed,6.0,King Studio,1 night, 1 adult,London,London,3.0,1,1,299,114,1.0,6.0
+266,546,Liberty Street,"Lambeth, London",US$90,8.9,Fabulous,89 reviews,1 large double bed,2.2,Large Double Room with Shared Bathroom,1 night, 1 adult,London,Lambeth,3.0,1,1,89,90,1.0,2.2
+267,547,The Z Hotel Strand,"Westminster Borough, London",US$83,8.5,Very good,11905 reviews,1 double bed,0.3,Double Room (Without Window),1 night, 1 adult,London,Westminster Borough,2.0,1,1,11905,83,1.0,0.3
+268,548,The Z Hotel Trafalgar,"Westminster Borough, London",US$89,8.4,Very good,14318 reviews,1 double bed,0.2,Z Inside Double (without a window),1 night, 1 adult,London,Westminster Borough,2.0,1,1,14318,89,1.0,0.2
+269,552,The Z Hotel Piccadilly,"Westminster Borough, London",US$96,7.9,Good,10612 reviews,1 double bed,0.2,Double Room without Window,1 night, 1 adult,London,Westminster Borough,1.0,1,1,10612,96,1.0,0.2
+270,553,The Royal Foundation of St Katharine,"Tower Hamlets, London",US$124,8.5,Very good,2352 reviews,1 single bed,3.7,Single Room,1 night, 1 adult,London,Tower Hamlets,2.0,1,1,2352,124,1.0,3.7
+271,554,The Z Hotel Holborn,"Camden, London",US$89,8.1,Very good,17047 reviews,1 double bed,0.7,Z Inside Double (without a window),1 night, 1 adult,London,Camden,2.0,1,1,17047,89,1.0,0.7
+272,555,YOTEL London City,"Islington, London",US$161,8.0,Very good,6626 reviews,1 double bed,1.4,Queen Room,1 night, 1 adult,London,Islington,2.0,1,1,6626,161,1.0,1.4
+273,557,St Martins Lane London,"Westminster Borough, London",US$306,8.7,Fabulous,5577 reviews,1 large double bed,0.2,Standard Queen Room,1 night, 1 adult,London,Westminster Borough,3.0,1,1,5577,306,1.0,0.2
+274,558,citizenM London Bankside,"Southwark, London",US$161,8.6,Fabulous,3612 reviews,1 extra-large double bed,1.3,King Room,1 night, 1 adult,London,Southwark,3.0,1,1,3612,161,1.0,1.3
+275,589,Tower Apartment's,"Tower Hamlets, London",US$245,9.6,Exceptional,5 reviews,1 double bed,2.6,Deluxe Studio,2 nights, 2 adults,London,Tower Hamlets,2.5,2,2,5,245,1.0,2.6
+276,590,JW Marriott Grosvenor House London,"Westminster Borough, London",US$1146,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",2 nights, 2 adults,London,Westminster Borough,2.0,2,2,1229,1146,1.0,1.2
+277,591,Central London Luxury Studios Fulham Close to Underground Newly Refurbished,"Hammersmith and Fulham, London",US$189,8.7,Fabulous,637 reviews,1 double bed,3.7,Studio Apartment,2 nights, 2 adults,London,Hammersmith and Fulham,3.0,2,2,637,189,1.0,3.7
+278,593,Centra Studios,London,US$252,8.9,Fabulous,299 reviews,1 double bed,6.0,King Studio,2 nights, 2 adults,London,London,3.0,2,2,299,252,1.0,6.0
+279,594,simply guesthouse,"Greenwich, London",US$171,8.7,Fabulous,469 reviews,1 double bed,10.5,Double Room,2 nights, 2 adults,London,Greenwich,3.0,2,2,469,171,1.0,10.5
+280,595,Centra Station,London,US$206,9.0,Superb,66 reviews,1 double bed,6.2,Studio,2 nights, 2 adults,London,London,4.0,2,2,66,206,1.0,6.2
+281,596,The Montana Hotel,"Kensington and Chelsea, London",US$189,7.9,Good,5788 reviews,2 single beds,2.5,Classic Twin Room,2 nights, 2 adults,London,Kensington and Chelsea,1.0,2,2,5788,189,2.0,2.5
+282,597,Park Plaza Westminster Bridge London,"Lambeth, London",US$762,8.3,Very good,25131 reviews,1 double bed,0.6,Superior Double Room with Internal View,2 nights, 2 adults,London,Lambeth,2.0,2,2,25131,762,1.0,0.6
+283,598,Leonardo Royal London St Paul’s,"City of London, London",US$603,8.6,Fabulous,11072 reviews,1 extra-large double bed,1.3,Superior King Room,2 nights, 2 adults,London,City of London,3.0,2,2,11072,603,1.0,1.3
+284,599,"Signature London, The J Marylebone","Westminster Borough, London",US$403,8.1,Very good,1370 reviews,1 double bed,1.8,Standard Double Room,2 nights, 2 adults,London,Westminster Borough,2.0,2,2,1370,403,1.0,1.8
+285,603,"Montcalm Royal London House, London City","Islington, London",US$501,8.3,Very good,10558 reviews,2 single beds,2.1,Deluxe Twin Room,2 nights, 2 adults,London,Islington,2.0,2,2,10558,501,2.0,2.1
+286,604,YOTEL London City,"Islington, London",US$446,8.0,Very good,6626 reviews,1 double bed,1.4,Queen Room,2 nights, 2 adults,London,Islington,2.0,2,2,6626,446,1.0,1.4
+287,606,St Martins Lane London,"Westminster Borough, London",US$710,8.7,Fabulous,5577 reviews,1 large double bed,0.2,Standard Queen Room,2 nights, 2 adults,London,Westminster Borough,3.0,2,2,5577,710,1.0,0.2
+288,608,The Gate ApartHotel London,"Tower Hamlets, London",US$456,8.7,Fabulous,3235 reviews,1 large double bed,2.6,Studio,2 nights, 2 adults,London,Tower Hamlets,3.0,2,2,3235,456,1.0,2.6
+289,609,citizenM London Bankside,"Southwark, London",US$366,8.6,Fabulous,3612 reviews,1 extra-large double bed,1.3,King Room,2 nights, 2 adults,London,Southwark,3.0,2,2,3612,366,1.0,1.3
+290,613,The Dilly,"Westminster Borough, London",US$777,8.1,Very good,7047 reviews,1 double bed,0.4,Standard Double Room,2 nights, 2 adults,London,Westminster Borough,2.0,2,2,7047,777,1.0,0.4
+291,616,Tower Apartment's,"Tower Hamlets, London",US$245,9.6,Exceptional,5 reviews,1 double bed,2.6,Deluxe Studio,2 nights, 2 adults,London,Tower Hamlets,2.0,2,2,5,245,1.0,2.6
+292,617,JW Marriott Grosvenor House London,"Westminster Borough, London",US$1146,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",2 nights, 2 adults,London,Westminster Borough,2.0,2,2,1229,1146,1.0,1.2
+293,618,Central London Luxury Studios Fulham Close to Underground Newly Refurbished,"Hammersmith and Fulham, London",US$189,8.7,Fabulous,637 reviews,1 double bed,3.7,Studio Apartment,2 nights, 2 adults,London,Hammersmith and Fulham,3.0,2,2,637,189,1.0,3.7
+294,619,Sheraton Grand London Park Lane,"Westminster Borough, London",US$1220,8.2,Very good,999 reviews,1 extra-large double bed,0.9,Deluxe King Room,2 nights, 2 adults,London,Westminster Borough,2.0,2,2,999,1220,1.0,0.9
+295,620,Centra Studios,London,US$252,8.9,Fabulous,299 reviews,1 double bed,6.0,King Studio,2 nights, 2 adults,London,London,3.0,2,2,299,252,1.0,6.0
+296,621,simply guesthouse,"Greenwich, London",US$171,8.7,Fabulous,469 reviews,1 double bed,10.5,Double Room,2 nights, 2 adults,London,Greenwich,3.0,2,2,469,171,1.0,10.5
+297,622,Centra Station,London,US$206,9.0,Superb,66 reviews,1 double bed,6.2,Studio,2 nights, 2 adults,London,London,4.0,2,2,66,206,1.0,6.2
+298,623,The Montana Hotel,"Kensington and Chelsea, London",US$189,7.9,Good,5788 reviews,2 single beds,2.5,Classic Twin Room,2 nights, 2 adults,London,Kensington and Chelsea,1.0,2,2,5788,189,2.0,2.5
+299,624,St Martins Lane London,"Westminster Borough, London",US$710,8.7,Fabulous,5577 reviews,1 large double bed,0.2,Standard Queen Room,2 nights, 2 adults,London,Westminster Borough,3.0,2,2,5577,710,1.0,0.2
+300,625,citizenM London Bankside,"Southwark, London",US$366,8.6,Fabulous,3612 reviews,1 extra-large double bed,1.3,King Room,2 nights, 2 adults,London,Southwark,3.0,2,2,3612,366,1.0,1.3
+301,626,"The Westminster London, Curio Collection by Hilton","Westminster Borough, London",US$482,8.3,Very good,7089 reviews,1 large double bed,1.0,Queen Room,2 nights, 2 adults,London,Westminster Borough,2.0,2,2,7089,482,1.0,1.0
+302,627,Rockwell East-Tower Bridge,"Tower Hamlets, London",US$252,8.4,Very good,3052 reviews,1 large double bed,2.4,Double Studio,2 nights, 2 adults,London,Tower Hamlets,2.0,2,2,3052,252,1.0,2.4
+303,669,Artim Hotel,"Tempelhof-Schöneberg, Berlin",US$90,7.6,Good,3633 reviews,1 large double bed,1.8,Standard Double Room,1 night, 2 adults,Berlin,Tempelhof-Schöneberg,1.0,1,2,3633,90,1.0,1.8
+304,673,Hotel AMANO Grand Central,"Mitte, Berlin",US$104,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,10745,104,1.0,0.9
+305,674,Hotel ROMY by AMANO,"Mitte, Berlin",US$97,8.3,Very good,5619 reviews,1 large double bed,0.8,Small Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,5619,97,1.0,0.8
+306,675,AMANO East Side,"Friedrichshain-Kreuzberg, Berlin",US$101,8.3,Very good,6989 reviews,1 large double bed,2.3,Standard Double Room,1 night, 2 adults,Berlin,Friedrichshain-Kreuzberg,2.0,1,2,6989,101,1.0,2.3
+307,676,Catalonia Berlin Mitte,"Mitte, Berlin",US$108,8.3,Very good,4722 reviews,Beds: 1 double or 2 singles,1.7,Standard Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,4722,108,1.0,1.7
+308,677,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$133,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,14880,133,1.0,0.6
+309,681,Grimm's Berlin Mitte,"Mitte, Berlin",US$115,8.4,Very good,3127 reviews,1 large double bed,1.3,Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,3127,115,1.0,1.3
+310,682,Hotel AMO by AMANO Friedrichstraße,"Mitte, Berlin",US$130,8.3,Very good,4817 reviews,Beds: 1 double or 2 singles,0.8,Standard Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,4817,130,1.5,0.8
+311,684,BlnCty Hotel,"Mitte, Berlin",US$84,7.6,Good,2676 reviews,2 single beds,0.3,Comfort Twin Room,1 night, 2 adults,Berlin,Mitte,1.0,1,2,2676,84,2.0,0.3
+312,690,Hotel Comenius,"Friedrichshain-Kreuzberg, Berlin",US$57,8.0,Very good,718 reviews,2 single beds,3.1,Twin Room,1 night, 2 adults,Berlin,Friedrichshain-Kreuzberg,2.0,1,2,718,57,2.0,3.1
+313,692,Leonardo Hotel Berlin KU'DAMM,"Charlottenburg-Wilmersdorf, Berlin",US$102,8.0,Very good,8623 reviews,Beds: 1 double or 2 singles,2.4,Comfort Double Room,1 night, 2 adults,Berlin,Charlottenburg-Wilmersdorf,2.0,1,2,8623,102,1.5,2.4
+314,695,Artim Hotel,"Tempelhof-Schöneberg, Berlin",US$90,7.6,Good,3633 reviews,1 large double bed,1.8,Standard Double Room,1 night, 2 adults,Berlin,Tempelhof-Schöneberg,1.0,1,2,3633,90,1.0,1.8
+315,696,DoubleTree by Hilton Berlin Ku'damm,"Charlottenburg-Wilmersdorf, Berlin",US$183,8.8,Fabulous,1209 reviews,1 single bed,2.0,Twin Room,1 night, 2 adults,Berlin,Charlottenburg-Wilmersdorf,3.0,1,2,1209,183,1.0,2.0
+316,697,Hotel Karlshorst,"Lichtenberg, Berlin",US$72,6.9,Review score,1750 reviews,Beds: 1 double or 2 singles,6.7,Comfort Double Room,1 night, 2 adults,Berlin,Lichtenberg,2.6666666666666665,1,2,1750,72,1.0,6.7
+317,698,Hotel Amelie Berlin,"Mitte, Berlin",US$126,6.3,Review score,1488 reviews,1 double bed,0.6,Double Room,1 night, 2 adults,Berlin,Mitte,2.333333333333333,1,2,1488,126,1.0,0.6
+318,699,Hotel ROMY by AMANO,"Mitte, Berlin",US$97,8.3,Very good,5619 reviews,1 large double bed,0.8,Small Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,5619,97,1.0,0.8
+319,700,Hotel AMANO Grand Central,"Mitte, Berlin",US$104,8.2,Very good,10745 reviews,1 large double bed,0.9,Standard Double or Twin Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,10745,104,1.0,0.9
+320,701,AMANO East Side,"Friedrichshain-Kreuzberg, Berlin",US$101,8.3,Very good,6989 reviews,1 large double bed,2.3,Standard Double Room,1 night, 2 adults,Berlin,Friedrichshain-Kreuzberg,2.0,1,2,6989,101,1.0,2.3
+321,702,Hotel Comenius,"Friedrichshain-Kreuzberg, Berlin",US$57,8.0,Very good,718 reviews,2 single beds,3.1,Twin Room,1 night, 2 adults,Berlin,Friedrichshain-Kreuzberg,2.0,1,2,718,57,2.0,3.1
+322,703,Hotel Pension Xantener Eck,"Charlottenburg-Wilmersdorf, Berlin",US$61,6.9,Review score,1166 reviews,Beds: 1 double or 2 singles,3.1,Double Room,1 night, 2 adults,Berlin,Charlottenburg-Wilmersdorf,1.5,1,2,1166,61,2.0,3.1
+323,704,BlnCty Hotel,"Mitte, Berlin",US$84,7.6,Good,2676 reviews,2 single beds,0.3,Comfort Twin Room,1 night, 2 adults,Berlin,Mitte,1.0,1,2,2676,84,2.0,0.3
+324,705,Catalonia Berlin Mitte,"Mitte, Berlin",US$108,8.3,Very good,4722 reviews,Beds: 1 double or 2 singles,1.7,Standard Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,4722,108,1.5,1.7
+325,706,Premier Inn Berlin Alexanderplatz,"Mitte, Berlin",US$113,8.2,Very good,358 reviews,1 large double bed,1.8,Standard Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,358,113,1.0,1.8
+326,707,Habyt-The Waterfront,"Lichtenberg, Berlin",US$81,8.6,Fabulous,1883 reviews,1 double bed,4.2,Urban Premium Studio,1 night, 2 adults,Berlin,Lichtenberg,3.0,1,2,1883,81,1.0,4.2
+327,708,"Hotel Berlin, Berlin, a member of Radisson Individuals","Mitte, Berlin",US$147,8.0,Very good,15429 reviews,1 large double bed,1.3,Cosy Small Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,15429,147,1.0,1.3
+328,709,Upper Room Hotel Kurfürstendamm,"Charlottenburg-Wilmersdorf, Berlin",US$81,7.1,Good,7447 reviews,2 single beds,2.0,Twin Room,1 night, 2 adults,Berlin,Charlottenburg-Wilmersdorf,1.0,1,2,7447,81,2.0,2.0
+329,710,LOGINN Hotel Berlin Airport,"Treptow-Köpenick, Berlin",US$75,8.3,Very good,1577 reviews,1 large double bed,10.7,Superior Double Room,1 night, 2 adults,Berlin,Treptow-Köpenick,2.0,1,2,1577,75,1.0,10.7
+330,711,martas Hotel Berlin-Mitte,"Mitte, Berlin",US$118,8.9,Fabulous,38 reviews,1 large double bed,1.0,Double Room,1 night, 2 adults,Berlin,Mitte,3.0,1,2,38,118,1.0,1.0
+331,712,Hotel Atlantic,"Neukölln, Berlin",US$63,7.6,Good,2238 reviews,Beds: 1 double or 2 singles,6.5,Double Room,1 night, 2 adults,Berlin,Neukölln,1.0,1,2,2238,63,1.0,6.5
+332,713,Safestay Berlin Kurfurstendamm,"Tempelhof-Schöneberg, Berlin",US$81,7.7,Good,2662 reviews,Multiple bed types,1.8,Quadruple Room Ensuite,1 night, 2 adults,Berlin,Tempelhof-Schöneberg,1.0,1,2,2662,81,1.0,1.8
+333,714,Leonardo Hotel Berlin Mitte,"Mitte, Berlin",US$133,8.2,Very good,14880 reviews,Beds: 1 double or 2 singles,0.6,Comfort Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,14880,133,1.0,0.6
+334,715,martas Hotel Allegra Berlin,"Mitte, Berlin",US$112,8.1,Very good,2859 reviews,1 large double bed,0.5,Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,2859,112,1.0,0.5
+335,716,martas Hotel Albrechtshof Berlin,"Mitte, Berlin",US$118,8.3,Very good,2628 reviews,1 large double bed,0.5,Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,2628,118,1.0,0.5
+336,717,ibis budget Berlin Alexanderplatz,"Friedrichshain-Kreuzberg, Berlin",US$97,7.6,Good,5525 reviews,1 double bed,2.0,Standard Room,1 night, 2 adults,Berlin,Friedrichshain-Kreuzberg,1.0,1,2,5525,97,1.0,2.0
+337,718,Premier Inn Berlin Airport,"Treptow-Köpenick, Berlin",US$76,8.7,Fabulous,3155 reviews,1 extra-large double bed,10.8,Standard Double Room,1 night, 2 adults,Berlin,Treptow-Köpenick,3.0,1,2,3155,76,1.0,10.8
+338,719,Leonardo Hotel Berlin KU'DAMM,"Charlottenburg-Wilmersdorf, Berlin",US$102,8.0,Very good,8623 reviews,Beds: 1 double or 2 singles,2.4,Comfort Double Room,1 night, 2 adults,Berlin,Charlottenburg-Wilmersdorf,2.0,1,2,8623,102,1.0,2.4
+339,720,Grimm's Berlin Mitte,"Mitte, Berlin",US$115,8.4,Very good,3127 reviews,1 large double bed,1.3,Double Room,1 night, 2 adults,Berlin,Mitte,2.0,1,2,3127,115,1.0,1.3
+340,748,Tower Apartment's,"Tower Hamlets, London",US$220,9.6,Exceptional,5 reviews,1 double bed,2.6,Deluxe Studio,2 nights, 1 adult,London,Tower Hamlets,1.5,2,1,5,220,1.0,2.6
+341,749,Sonder Edgware Road,"Westminster Borough, London",US$223,7.2,Good,917 reviews,1 single bed,1.9,Single Room,2 nights, 1 adult,London,Westminster Borough,1.0,2,1,917,223,1.0,1.9
+342,750,Central London Luxury Studios Fulham Close to Underground Newly Refurbished,"Hammersmith and Fulham, London",US$189,8.7,Fabulous,637 reviews,1 double bed,3.7,Studio Apartment,2 nights, 1 adult,London,Hammersmith and Fulham,3.0,2,1,637,189,1.0,3.7
+343,751,JW Marriott Grosvenor House London,"Westminster Borough, London",US$1146,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",2 nights, 1 adult,London,Westminster Borough,2.0,2,1,1229,1146,1.0,1.2
+344,752,Centra Studios,London,US$252,8.9,Fabulous,299 reviews,1 double bed,6.0,King Studio,2 nights, 1 adult,London,London,3.0,2,1,299,252,1.0,6.0
+345,753,simply guesthouse,"Greenwich, London",US$125,8.7,Fabulous,469 reviews,1 single bed,10.5,Single Room,2 nights, 1 adult,London,Greenwich,3.0,2,1,469,125,1.0,10.5
+346,754,Centra Station,London,US$206,9.0,Superb,66 reviews,1 double bed,6.2,Studio,2 nights, 1 adult,London,London,4.0,2,1,66,206,1.0,6.2
+347,755,Leonardo Royal London St Paul’s,"City of London, London",US$603,8.6,Fabulous,11072 reviews,1 extra-large double bed,1.3,Superior King Room,2 nights, 1 adult,London,City of London,3.0,2,1,11072,603,1.0,1.3
+348,757,YOTEL London City,"Islington, London",US$446,8.0,Very good,6626 reviews,1 double bed,1.4,Queen Room,2 nights, 1 adult,London,Islington,2.0,2,1,6626,446,1.0,1.4
+349,758,St Martins Lane London,"Westminster Borough, London",US$710,8.7,Fabulous,5577 reviews,1 large double bed,0.2,Standard Queen Room,2 nights, 1 adult,London,Westminster Borough,3.0,2,1,5577,710,1.0,0.2
+350,759,The Gate ApartHotel London,"Tower Hamlets, London",US$456,8.7,Fabulous,3235 reviews,1 large double bed,2.6,Studio,2 nights, 1 adult,London,Tower Hamlets,3.0,2,1,3235,456,1.0,2.6
+351,760,The Beaufort,"Kensington and Chelsea, London",US$378,7.4,Good,2177 reviews,1 double bed,1.7,Single Room,2 nights, 1 adult,London,Kensington and Chelsea,1.0,2,1,2177,378,1.0,1.7
+352,761,The BoTree - Preferred Hotels and Resorts,"Westminster Borough, London",US$749,9.2,Superb,449 reviews,1 large double bed,1.1,Superior Double Room,2 nights, 1 adult,London,Westminster Borough,4.0,2,1,449,749,1.0,1.1
+353,762,citizenM London Bankside,"Southwark, London",US$366,8.6,Fabulous,3612 reviews,1 extra-large double bed,1.3,King Room,2 nights, 1 adult,London,Southwark,3.0,2,1,3612,366,1.0,1.3
+354,763,"The May Fair, A Radisson Collection Hotel, Mayfair London","Westminster Borough, London",US$864,8.1,Very good,5217 reviews,1 double bed,0.7,Collection Superior Queen Room,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,5217,864,1.0,0.7
+355,764,Park Plaza Westminster Bridge London,"Lambeth, London",US$762,8.3,Very good,25131 reviews,1 double bed,0.6,Superior Double Room with Internal View,2 nights, 1 adult,London,Lambeth,2.0,2,1,25131,762,1.0,0.6
+356,765,ME London by Melia - Covent Garden,"Westminster Borough, London",US$876,8.5,Very good,1638 reviews,1 extra-large double bed,0.5,Always ME,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,1638,876,1.0,0.5
+357,766,"The Rathbone Hotel, Fitzrovia","Westminster Borough, London",US$532,8.5,Very good,1464 reviews,1 single bed,0.9,Single Room,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,1464,532,1.0,0.9
+358,767,citizenM Tower of London,"City of London, London",US$456,8.6,Fabulous,7614 reviews,1 extra-large double bed,2.2,King Room,2 nights, 1 adult,London,City of London,3.0,2,1,7614,456,1.0,2.2
+359,768,"Signature London, The J Marylebone","Westminster Borough, London",US$403,8.1,Very good,1370 reviews,1 double bed,1.8,Standard Double Room,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,1370,403,1.0,1.8
+360,769,"Radisson Blu Hotel, London Bloomsbury","Camden, London",US$736,8.4,Very good,5185 reviews,1 double bed,0.7,Standard Double Room,2 nights, 1 adult,London,Camden,2.0,2,1,5185,736,1.0,0.7
+361,770,"The Westminster London, Curio Collection by Hilton","Westminster Borough, London",US$482,8.3,Very good,7089 reviews,1 large double bed,1.0,Queen Room,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,7089,482,1.0,1.0
+362,771,The Montana Hotel,"Kensington and Chelsea, London",US$148,7.9,Good,5788 reviews,1 single bed,2.5,Economy Single Room with Shared Bathroom,2 nights, 1 adult,London,Kensington and Chelsea,1.0,2,1,5788,148,1.0,2.5
+363,773,The Dilly,"Westminster Borough, London",US$777,8.1,Very good,7047 reviews,1 double bed,0.4,Standard Double Room,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,7047,777,1.0,0.4
+364,774,Bob W Hyde Park,"Westminster Borough, London",US$310,8.4,Very good,523 reviews,1 single bed,2.3,Single Room,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,523,310,1.0,2.3
+365,776,Sonder Edgware Road,"Westminster Borough, London",US$223,7.2,Good,917 reviews,1 single bed,1.9,Single Room,2 nights, 1 adult,London,Westminster Borough,1.0,2,1,917,223,1.0,1.9
+366,778,JW Marriott Grosvenor House London,"Westminster Borough, London",US$1146,8.2,Very good,1229 reviews,1 double bed,1.2,"Deluxe Room, Guest room, 1 Queen",2 nights, 1 adult,London,Westminster Borough,2.0,2,1,1229,1146,1.0,1.2
+367,780,simply guesthouse,"Greenwich, London",US$125,8.7,Fabulous,469 reviews,1 single bed,10.5,Single Room,2 nights, 1 adult,London,Greenwich,3.0,2,1,469,125,1.0,10.5
+368,785,YOTEL London City,"Islington, London",US$446,8.0,Very good,6626 reviews,1 double bed,1.4,Queen Room,2 nights, 1 adult,London,Islington,2.0,2,1,6626,446,1.0,1.4
+369,786,St Martins Lane London,"Westminster Borough, London",US$710,8.7,Fabulous,5577 reviews,1 large double bed,0.2,Standard Queen Room,2 nights, 1 adult,London,Westminster Borough,3.0,2,1,5577,710,1.0,0.2
+370,787,citizenM London Bankside,"Southwark, London",US$366,8.6,Fabulous,3612 reviews,1 extra-large double bed,1.3,King Room,2 nights, 1 adult,London,Southwark,3.0,2,1,3612,366,1.0,1.3
+371,788,Leonardo Royal London St Paul’s,"City of London, London",US$603,8.6,Fabulous,11072 reviews,1 extra-large double bed,1.3,Superior King Room,2 nights, 1 adult,London,City of London,3.0,2,1,11072,603,1.0,1.3
+372,791,citizenM Tower of London,"City of London, London",US$456,8.6,Fabulous,7614 reviews,1 extra-large double bed,2.2,King Room,2 nights, 1 adult,London,City of London,3.0,2,1,7614,456,1.0,2.2
+373,795,"The May Fair, A Radisson Collection Hotel, Mayfair London","Westminster Borough, London",US$864,8.1,Very good,5217 reviews,1 double bed,0.7,Collection Superior Queen Room,2 nights, 1 adult,London,Westminster Borough,2.0,2,1,5217,864,1.0,0.7
+374,830,Generator Paris,"10th arr., Paris",US$70,7.3,Good,11095 reviews,1 bunk bed,1.7,Bed in 10-Bed Mixed Dormitory Room,2 nights, 1 adult,Paris,10th arr.,1.0,2,1,11095,70,1.0,1.7
+375,831,St Christopher's Inn Paris - Canal,"19th arr., Paris",US$59,7.3,Good,7376 reviews,1 bunk bed,2.5,Bed in 12-Bed Dormitory Room,2 nights, 1 adult,Paris,19th arr.,1.0,2,1,7376,59,1.0,2.5
+376,832,Timhotel Montmartre,"18th arr., Paris",US$399,8.3,Very good,2532 reviews,1 single bed,2.1,Comfort Single Room,2 nights, 1 adult,Paris,18th arr.,2.0,2,1,2532,399,1.0,2.1
+377,833,Hôtel Eden Opéra,"9th arr., Paris",US$393,8.1,Very good,1000 reviews,1 double bed,1.8,Double Room,2 nights, 1 adult,Paris,9th arr.,2.0,2,1,1000,393,1.0,1.8
+378,834,Hôtel Le Daum,"12th arr., Paris",US$404,8.3,Very good,1270 reviews,1 double bed,2.6,Comfort Double Room,2 nights, 1 adult,Paris,12th arr.,2.0,2,1,1270,404,1.0,2.6
+379,835,Austin's Arts Et Metiers Hotel,"3rd arr., Paris",US$565,8.2,Very good,2335 reviews,1 double bed,0.7,Double Room,2 nights, 1 adult,Paris,3rd arr.,2.0,2,1,2335,565,1.0,0.7
+380,836,Turenne Le Marais,"4th arr., Paris",US$388,8.1,Very good,1467 reviews,1 single bed,0.6,Single Room,2 nights, 1 adult,Paris,4th arr.,2.0,2,1,1467,388,1.0,0.6
+381,837,Austin's Saint Lazare Hotel,"9th arr., Paris",US$481,8.1,Very good,2918 reviews,1 double bed,1.8,Double Room,2 nights, 1 adult,Paris,9th arr.,2.0,2,1,2918,481,1.0,1.8
+382,838,Hôtel des Grands Hommes,"5th arr., Paris",US$618,8.9,Fabulous,391 reviews,Beds: 1 double or 2 singles,0.8,Classic Room,2 nights, 1 adult,Paris,5th arr.,3.0,2,1,391,618,1.0,0.8
+383,839,Europe Saint Severin-Paris Notre Dame,"5th arr., Paris",US$457,8.4,Very good,2427 reviews,1 large double bed,0.4,Classic Room,2 nights, 1 adult,Paris,5th arr.,2.0,2,1,2427,457,1.0,0.4
+384,840,Hôtel Delavigne,"6th arr., Paris",US$469,8.9,Fabulous,2241 reviews,1 single bed,0.7,Single Room,2 nights, 1 adult,Paris,6th arr.,3.0,2,1,2241,469,1.0,0.7
+385,841,Hôtel Pilgrim,"5th arr., Paris",US$670,8.9,Fabulous,283 reviews,1 large double bed,0.5,Queen Bed Double Room,2 nights, 1 adult,Paris,5th arr.,3.0,2,1,283,670,1.0,0.5
+386,842,Odeon Hotel by Malone,"6th arr., Paris",US$510,8.4,Very good,1264 reviews,1 double bed,0.7,Classic Double Room,2 nights, 1 adult,Paris,6th arr.,2.0,2,1,1264,510,1.0,0.7
+387,843,French Theory,"5th arr., Paris",US$453,8.4,Very good,2576 reviews,2 single beds,0.7,Twin Room,2 nights, 1 adult,Paris,5th arr.,2.0,2,1,2576,453,2.0,0.7
+388,844,citizenM Paris Gare de Lyon,"12th arr., Paris",US$493,8.3,Very good,10429 reviews,1 extra-large double bed,1.3,King Room,2 nights, 1 adult,Paris,12th arr.,2.0,2,1,10429,493,1.0,1.3
+389,845,Villa Panthéon,"5th arr., Paris",US$509,7.8,Good,1097 reviews,1 double bed,0.6,Classic Room,2 nights, 1 adult,Paris,5th arr.,1.0,2,1,1097,509,1.0,0.6
+390,846,Hotel & Spa La Belle Juliette,"6th arr., Paris",US$610,8.4,Very good,822 reviews,1 large double bed,1.5,Superior Double Room,2 nights, 1 adult,Paris,6th arr.,2.0,2,1,822,610,1.0,1.5
+391,847,Hotel Bridget,"20th arr., Paris",US$391,8.1,Very good,1126 reviews,1 double bed,2.2,Classic double room,2 nights, 1 adult,Paris,20th arr.,2.0,2,1,1126,391,1.0,2.2
+392,848,Le Regent Montmartre by Hiphophostels,"9th arr., Paris",US$84,7.5,Good,6600 reviews,1 bunk bed,1.8,Bed in 4-Bed Female Dormitory Room,2 nights, 1 adult,Paris,9th arr.,1.0,2,1,6600,84,1.0,1.8
+393,849,Hotel Louis II,"6th arr., Paris",US$537,8.9,Fabulous,482 reviews,1 large double bed,0.7,Standard Double Room,2 nights, 1 adult,Paris,6th arr.,3.0,2,1,482,537,1.0,0.7
+394,850,Hôtel Vaneau Saint Germain,"7th arr., Paris",US$457,8.1,Very good,1641 reviews,1 large double bed,1.5,Classic Double Room,2 nights, 1 adult,Paris,7th arr.,2.0,2,1,1641,457,1.0,1.5
+395,851,OKKO Hotels Paris Rosa Parks,"19th arr., Paris",US$315,8.2,Very good,811 reviews,1 large double bed,2.9,Classic Double Room,2 nights, 1 adult,Paris,19th arr.,2.0,2,1,811,315,1.0,2.9
+396,852,Citadines Place d'Italie Paris,"13th arr., Paris",US$312,7.9,Good,3127 reviews,Beds: 1 double or 2 singles,1.8,Studio,2 nights, 1 adult,Paris,13th arr.,1.0,2,1,3127,312,1.0,1.8
+397,854,Le Narcisse Blanc,"7th arr., Paris",US$1549,9.2,Superb,577 reviews,1 double bed,1.9,Superior Double Room,2 nights, 1 adult,Paris,7th arr.,4.0,2,1,577,1549,1.0,1.9
+398,855,Sonder L'Edmond Parc Monceau,"17th arr., Paris",US$475,8.5,Very good,1017 reviews,1 large double bed,2.5,Deluxe Queen Studio,2 nights, 1 adult,Paris,17th arr.,2.0,2,1,1017,475,1.0,2.5
+399,856,Generator Paris,"10th arr., Paris",US$70,7.3,Good,11095 reviews,1 bunk bed,1.7,Bed in 10-Bed Mixed Dormitory Room,2 nights, 1 adult,Paris,10th arr.,1.0,2,1,11095,70,1.0,1.7
+400,857,Turenne Le Marais,"4th arr., Paris",US$388,8.1,Very good,1467 reviews,1 single bed,0.6,Single Room,2 nights, 1 adult,Paris,4th arr.,2.0,2,1,1467,388,1.0,0.6
+401,858,Hôtel Delavigne,"6th arr., Paris",US$469,8.9,Fabulous,2241 reviews,1 single bed,0.7,Single Room,2 nights, 1 adult,Paris,6th arr.,3.0,2,1,2241,469,1.0,0.7
+402,860,citizenM Paris Gare de Lyon,"12th arr., Paris",US$493,8.3,Very good,10429 reviews,1 extra-large double bed,1.3,King Room,2 nights, 1 adult,Paris,12th arr.,2.0,2,1,10429,493,1.0,1.3
+403,861,Odeon Hotel by Malone,"6th arr., Paris",US$510,8.4,Very good,1264 reviews,1 double bed,0.7,Classic Double Room,2 nights, 1 adult,Paris,6th arr.,2.0,2,1,1264,510,1.0,0.7
+404,862,St Christopher's Inn Paris - Canal,"19th arr., Paris",US$59,7.3,Good,7376 reviews,1 bunk bed,2.5,Bed in 12-Bed Dormitory Room,2 nights, 1 adult,Paris,19th arr.,1.0,2,1,7376,59,1.0,2.5
+405,866,Hôtel Pilgrim,"5th arr., Paris",US$670,8.9,Fabulous,283 reviews,1 large double bed,0.5,Queen Bed Double Room,2 nights, 1 adult,Paris,5th arr.,3.0,2,1,283,670,1.0,0.5
+406,868,Hôtel du Danube Saint Germain,"6th arr., Paris",US$475,8.6,Fabulous,1031 reviews,1 single bed,0.9,Single Room,2 nights, 1 adult,Paris,6th arr.,3.0,2,1,1031,475,1.0,0.9
+407,870,Hôtel Vaneau Saint Germain,"7th arr., Paris",US$457,8.1,Very good,1641 reviews,1 large double bed,1.5,Classic Double Room,2 nights, 1 adult,Paris,7th arr.,2.0,2,1,1641,457,1.0,1.5
+408,872,Citadines Place d'Italie Paris,"13th arr., Paris",US$312,7.9,Good,3127 reviews,Beds: 1 double or 2 singles,1.8,Studio,2 nights, 1 adult,Paris,13th arr.,1.0,2,1,3127,312,1.0,1.8
+409,873,Hotel Louis II,"6th arr., Paris",US$537,8.9,Fabulous,482 reviews,1 large double bed,0.7,Standard Double Room,2 nights, 1 adult,Paris,6th arr.,3.0,2,1,482,537,1.0,0.7
+410,907,Le Narcisse Blanc,"7th arr., Paris",US$644,9.2,Superb,577 reviews,1 double bed,1.9,Superior Double Room,1 night, 1 adult,Paris,7th arr.,4.0,1,1,577,644,1.0,1.9
+411,908,Atala powered by Sonder,"8th arr., Paris",US$164,8.1,Very good,1251 reviews,1 extra-large double bed,2.5,King Room,1 night, 1 adult,Paris,8th arr.,2.0,1,1,1251,164,1.0,2.5
+412,910,Melia Paris Champs Elysées,"16th arr., Paris",US$574,7.5,Good,357 reviews,1 extra-large double bed,3.2,Junior Suite,1 night, 1 adult,Paris,16th arr.,1.0,1,1,357,574,1.0,3.2
+413,911,Le Relais du Marais,"3rd arr., Paris",US$184,8.0,Very good,1694 reviews,1 single bed,0.8,Single Room,1 night, 1 adult,Paris,3rd arr.,2.0,1,1,1694,184,1.0,0.8
+414,914,French Theory,"5th arr., Paris",US$107,8.4,Very good,2576 reviews,1 single bed,0.7,Single Room,1 night, 1 adult,Paris,5th arr.,2.0,1,1,2576,107,1.0,0.7
+415,915,Les Jardins Du Marais,"11th arr., Paris",US$210,8.1,Very good,3407 reviews,1 double bed,0.8,Classic Room,1 night, 1 adult,Paris,11th arr.,2.0,1,1,3407,210,1.0,0.8
+416,917,Le Katorze Hôtel,"17th arr., Paris",US$189,8.3,Very good,1411 reviews,1 double bed,2.6,Double Room,1 night, 1 adult,Paris,17th arr.,2.0,1,1,1411,189,1.0,2.6
+417,918,Hotel Trianon Rive Gauche,"6th arr., Paris",US$279,8.0,Very good,4517 reviews,1 double bed,0.7,"""Cosy"" Room",1 night, 1 adult,Paris,6th arr.,2.0,1,1,4517,279,1.0,0.7
+418,920,Hôtel Le Daum,"12th arr., Paris",US$190,8.3,Very good,1270 reviews,1 double bed,2.6,Comfort Double Room,1 night, 1 adult,Paris,12th arr.,2.0,1,1,1270,190,1.0,2.6
+419,922,Timhotel Montmartre,"18th arr., Paris",US$194,8.3,Very good,2532 reviews,1 single bed,2.1,Comfort Single Room,1 night, 1 adult,Paris,18th arr.,2.0,1,1,2532,194,1.0,2.1
+420,923,Generator Paris,"10th arr., Paris",US$36,7.3,Good,11095 reviews,1 bunk bed,1.7,Bed in 10-Bed Mixed Dormitory Room,1 night, 1 adult,Paris,10th arr.,1.0,1,1,11095,36,1.0,1.7
+421,926,Altona,"10th arr., Paris",US$102,7.6,Good,4899 reviews,Multiple bed types,1.8,Single Room,1 night, 1 adult,Paris,10th arr.,1.0,1,1,4899,102,1.0,1.8
+422,928,Hotel Joke - Astotel,"9th arr., Paris",US$113,9.0,Superb,1474 reviews,1 single bed,2.0,Standard Single Room,1 night, 1 adult,Paris,9th arr.,4.0,1,1,1474,113,1.0,2.0
+423,929,123paris city,"3rd arr., Paris",US$236,8.3,Very good,453 reviews,"2 beds (1 sofa bed, 1 large double)",0.6,Superior Apartment,1 night, 1 adult,Paris,3rd arr.,2.0,1,1,453,236,2.0,0.6
+424,930,Maison Malesherbes,"8th arr., Paris",US$133,8.6,Fabulous,645 reviews,1 single bed,2.0,Single Room,1 night, 1 adult,Paris,8th arr.,3.0,1,1,645,133,1.0,2.0
+425,931,Austin's Arts Et Metiers Hotel,"3rd arr., Paris",US$259,8.2,Very good,2335 reviews,1 double bed,0.7,Double Room,1 night, 1 adult,Paris,3rd arr.,2.0,1,1,2335,259,1.0,0.7
+426,934,Hotel Novex Paris,"13th arr., Paris",US$149,4.9,Review score,1203 reviews,1 double bed,2.4,Double Room,1 night, 1 adult,Paris,13th arr.,2.0,1,1,1203,149,1.0,2.4
+427,935,Atala powered by Sonder,"8th arr., Paris",US$164,8.1,Very good,1251 reviews,1 extra-large double bed,2.5,King Room,1 night, 1 adult,Paris,8th arr.,2.0,1,1,1251,164,1.0,2.5
+428,936,French Theory,"5th arr., Paris",US$107,8.4,Very good,2576 reviews,1 single bed,0.7,Single Room,1 night, 1 adult,Paris,5th arr.,2.0,1,1,2576,107,1.0,0.7
+429,937,Melia Paris Champs Elysées,"16th arr., Paris",US$574,7.5,Good,357 reviews,1 extra-large double bed,3.2,Junior Suite,1 night, 1 adult,Paris,16th arr.,1.0,1,1,357,574,1.0,3.2
+430,938,St Christopher's Inn Paris - Canal,"19th arr., Paris",US$26,7.3,Good,7376 reviews,1 bunk bed,2.5,Bed in 12-Bed Dormitory Room,1 night, 1 adult,Paris,19th arr.,1.0,1,1,7376,26,1.0,2.5
+431,939,Maison Malesherbes,"8th arr., Paris",US$133,8.6,Fabulous,645 reviews,1 single bed,2.0,Single Room,1 night, 1 adult,Paris,8th arr.,3.0,1,1,645,133,1.0,2.0
+432,940,Generator Paris,"10th arr., Paris",US$36,7.3,Good,11095 reviews,1 bunk bed,1.7,Bed in 10-Bed Mixed Dormitory Room,1 night, 1 adult,Paris,10th arr.,1.0,1,1,11095,36,1.0,1.7
+433,941,Hotel Joke - Astotel,"9th arr., Paris",US$113,9.0,Superb,1474 reviews,1 single bed,2.0,Standard Single Room,1 night, 1 adult,Paris,9th arr.,4.0,1,1,1474,113,1.0,2.0
+434,942,Le Regent Montmartre by Hiphophostels,"9th arr., Paris",US$33,7.5,Good,6600 reviews,1 bunk bed,1.8,Bed in 6-Bed Mixed Dormitory Room,1 night, 1 adult,Paris,9th arr.,1.0,1,1,6600,33,1.0,1.8
+435,945,St Christopher's Inn Paris - Gare du Nord,"10th arr., Paris",US$38,7.2,Good,10594 reviews,1 bunk bed,1.6,Bed in 4-Bed Dormitory Room with Private Bathroom,1 night, 1 adult,Paris,10th arr.,1.0,1,1,10594,38,1.0,1.6
+436,946,Hotel Imperial Paris,"9th arr., Paris",US$129,8.0,Very good,1518 reviews,1 single bed,1.4,Single Room,1 night, 1 adult,Paris,9th arr.,2.0,1,1,1518,129,1.0,1.4
+437,947,Hôtel Delavigne,"6th arr., Paris",US$188,8.9,Fabulous,2241 reviews,1 single bed,0.7,Single Room,1 night, 1 adult,Paris,6th arr.,3.0,1,1,2241,188,1.0,0.7
+438,948,Grand Hôtel de L'Univers Saint-Germain,"6th arr., Paris",US$228,8.8,Fabulous,3032 reviews,1 double bed,0.7,Standard Double Room,1 night, 1 adult,Paris,6th arr.,3.0,1,1,3032,228,1.0,0.7
+439,949,Turenne Le Marais,"4th arr., Paris",US$165,8.1,Very good,1467 reviews,1 single bed,0.6,Single Room,1 night, 1 adult,Paris,4th arr.,2.0,1,1,1467,165,1.0,0.6
+440,952,Hôtel des Grands Hommes,"5th arr., Paris",US$272,8.9,Fabulous,391 reviews,Beds: 1 double or 2 singles,0.8,Classic Room,1 night, 1 adult,Paris,5th arr.,3.0,1,1,391,272,1.0,0.8
+441,953,Altona,"10th arr., Paris",US$102,7.6,Good,4899 reviews,Multiple bed types,1.8,Single Room,1 night, 1 adult,Paris,10th arr.,1.0,1,1,4899,102,1.0,1.8
+442,989,Melia Madrid Serrano,"Salamanca, Madrid",US$802,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,2 nights, 2 adults,Madrid,Salamanca,2.0,2,2,2627,802,1.0,1.6
+443,990,TaCH Madrid Airport,"Barajas, Madrid",US$548,8.5,Very good,8361 reviews,1 large double bed,7.3,Comfort Double Room,2 nights, 2 adults,Madrid,Barajas,2.0,2,2,8361,548,1.0,7.3
+444,992,UMusic Hotel Madrid,"Centro, Madrid",US$770,8.9,Fabulous,2319 reviews,1 large double bed,0.1,Deluxe Guest Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,2319,770,1.0,0.1
+445,993,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$518,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,2 nights, 2 adults,Madrid,Centro,2.0,2,2,4157,518,1.0,0.3
+446,994,Hostal Milan,"Centro, Madrid",US$286,8.3,Very good,924 reviews,1 double bed,0.3,Double Room,2 nights, 2 adults,Madrid,Centro,2.0,2,2,924,286,1.0,0.3
+447,995,Riu Plaza España,"Centro, Madrid",US$616,8.9,Fabulous,28926 reviews,1 extra-large double bed,0.6,Deluxe King Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,28926,616,1.0,0.6
+448,997,Eurostars Suites Mirasierra,"Fuencarral-El Pardo, Madrid",US$488,8.6,Fabulous,2900 reviews,Beds: 1 double or 2 singles,4.8,Deluxe Double Suite,2 nights, 2 adults,Madrid,Fuencarral-El Pardo,3.0,2,2,2900,488,1.5,4.8
+449,998,Hyatt Centric Gran Via Madrid,"Centro, Madrid",US$866,8.9,Fabulous,2748 reviews,2 single beds,0.2,Twin Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,2748,866,2.0,0.2
+450,1003,Vincci Vía - 66,"Centro, Madrid",US$537,8.5,Very good,7254 reviews,Beds: 1 double or 2 singles,0.5,Standard Double or Twin Room,2 nights, 2 adults,Madrid,Centro,2.0,2,2,7254,537,2.0,0.5
+451,1007,Vincci Soho,"Centro, Madrid",US$561,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,2 nights, 2 adults,Madrid,Centro,3.0,2,2,8966,561,2.0,0.3
+452,1008,Hotel Regina,"Centro, Madrid",US$796,9.3,Superb,9362 reviews,Beds: 1 double or 2 singles,0.2,Double Room with patio view,2 nights, 2 adults,Madrid,Centro,4.0,2,2,9362,796,2.0,0.2
+453,1011,NH Collection Madrid Gran Vía,"Centro, Madrid",US$774,9.0,Superb,1665 reviews,Beds: 1 double or 2 singles,0.3,Superior Double or Twin Room with Gran Vía View,2 nights, 2 adults,Madrid,Centro,4.0,2,2,1665,774,2.0,0.3
+454,1012,Vincci Capitol,"Centro, Madrid",US$561,8.7,Fabulous,8481 reviews,2 single beds,0.3,Double or Twin Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,8481,561,2.0,0.3
+455,1015,Aparment Almudena,"Ciudad Lineal, Madrid",US$232,8.1,Very good,23 reviews,"6 beds (3 singles, 2 doubles, 1 sofa bed)",2.6,Three-Bedroom Apartment,2 nights, 2 adults,Madrid,Ciudad Lineal,2.0,2,2,23,232,6.0,2.6
+456,1016,Melia Madrid Serrano,"Salamanca, Madrid",US$802,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,2 nights, 2 adults,Madrid,Salamanca,2.0,2,2,2627,802,3.5,1.6
+457,1017,TaCH Madrid Airport,"Barajas, Madrid",US$548,8.5,Very good,8361 reviews,1 large double bed,7.3,Comfort Double Room,2 nights, 2 adults,Madrid,Barajas,2.0,2,2,8361,548,1.0,7.3
+458,1018,dobohomes - GC21,"Tetuan, Madrid",US$193,8.7,Fabulous,107 reviews,1 double bed,2.7,Studio Apartment,2 nights, 2 adults,Madrid,Tetuan,3.0,2,2,107,193,1.0,2.7
+459,1019,UMusic Hotel Madrid,"Centro, Madrid",US$770,8.9,Fabulous,2319 reviews,1 large double bed,0.1,Deluxe Guest Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,2319,770,1.0,0.1
+460,1020,Hotel Pinar Plaza,"Ciudad Lineal, Madrid",US$538,8.7,Fabulous,423 reviews,1 large double bed,4.9,Standard Double Room,2 nights, 2 adults,Madrid,Ciudad Lineal,3.0,2,2,423,538,1.0,4.9
+461,1021,Riu Plaza España,"Centro, Madrid",US$616,8.9,Fabulous,28926 reviews,1 extra-large double bed,0.6,Deluxe King Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,28926,616,1.0,0.6
+462,1022,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$518,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,2 nights, 2 adults,Madrid,Centro,2.0,2,2,4157,518,1.0,0.3
+463,1023,Eurostars Suites Mirasierra,"Fuencarral-El Pardo, Madrid",US$488,8.6,Fabulous,2900 reviews,Beds: 1 double or 2 singles,4.8,Deluxe Double Suite,2 nights, 2 adults,Madrid,Fuencarral-El Pardo,3.0,2,2,2900,488,1.5,4.8
+464,1024,Hyatt Centric Gran Via Madrid,"Centro, Madrid",US$866,8.9,Fabulous,2748 reviews,2 single beds,0.2,Twin Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,2748,866,2.0,0.2
+465,1025,Vincci Soho,"Centro, Madrid",US$561,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,2 nights, 2 adults,Madrid,Centro,3.0,2,2,8966,561,2.0,0.3
+466,1026,Vincci Capitol,"Centro, Madrid",US$561,8.7,Fabulous,8481 reviews,2 single beds,0.3,Double or Twin Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,8481,561,2.0,0.3
+467,1028,Apartamentos Soho Boutique Hoy No Me Puedo Levantar,"Centro, Madrid",US$445,8.6,Fabulous,665 reviews,1 large double bed,0.4,Suite,2 nights, 2 adults,Madrid,Centro,3.0,2,2,665,445,1.0,0.4
+468,1029,Barceló Imagine,"Chamartín, Madrid",US$586,9.1,Superb,3392 reviews,Beds: 1 double or 2 singles,3.8,Deluxe Double or Twin Room,2 nights, 2 adults,Madrid,Chamartín,4.0,2,2,3392,586,1.0,3.8
+469,1030,Vincci Vía - 66,"Centro, Madrid",US$537,8.5,Very good,7254 reviews,Beds: 1 double or 2 singles,0.5,Standard Double or Twin Room,2 nights, 2 adults,Madrid,Centro,2.0,2,2,7254,537,1.0,0.5
+470,1031,Catalonia Atocha,"Centro, Madrid",US$564,8.7,Fabulous,5443 reviews,Beds: 1 double or 2 singles,0.4,Double or Twin Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,5443,564,1.0,0.4
+471,1033,Eurostars Madrid Tower,"Fuencarral-El Pardo, Madrid",US$586,8.8,Fabulous,4962 reviews,Multiple bed types,4.3,Superior Double or Twin Room,2 nights, 2 adults,Madrid,Fuencarral-El Pardo,3.0,2,2,4962,586,1.0,4.3
+472,1034,Axor Barajas,"San Blas, Madrid",US$466,8.6,Fabulous,4998 reviews,Beds: 1 double or 2 singles,6.7,Double or Twin Room with free airport shuttle,2 nights, 2 adults,Madrid,San Blas,3.0,2,2,4998,466,1.0,6.7
+473,1035,Hotel Regina,"Centro, Madrid",US$796,9.3,Superb,9362 reviews,Beds: 1 double or 2 singles,0.2,Double Room with patio view,2 nights, 2 adults,Madrid,Centro,4.0,2,2,9362,796,1.0,0.2
+474,1036,NH Collection Madrid Gran Vía,"Centro, Madrid",US$774,9.0,Superb,1665 reviews,Beds: 1 double or 2 singles,0.3,Superior Double or Twin Room with Gran Vía View,2 nights, 2 adults,Madrid,Centro,4.0,2,2,1665,774,1.0,0.3
+475,1037,Hostal Milan,"Centro, Madrid",US$286,8.3,Very good,924 reviews,1 double bed,0.3,Double Room,2 nights, 2 adults,Madrid,Centro,2.0,2,2,924,286,1.0,0.3
+476,1038,Hotel Moderno Puerta del Sol,"Centro, Madrid",US$407,8.7,Fabulous,6238 reviews,2 single beds,450.0,Twin Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,6238,407,2.0,450.0
+477,1039,Eurostars Madrid Gran Vía,"Centro, Madrid",US$564,8.7,Fabulous,3127 reviews,Beds: 1 double or 2 singles,0.5,Double Room,2 nights, 2 adults,Madrid,Centro,3.0,2,2,3127,564,2.0,0.5
+478,1040,Generator Madrid,"Centro, Madrid",US$319,8.1,Very good,9969 reviews,Multiple bed types,0.4,Family Room for 4,2 nights, 2 adults,Madrid,Centro,2.0,2,2,9969,319,2.0,0.4
+479,1069,Melia Madrid Serrano,"Salamanca, Madrid",US$352,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,1 night, 1 adult,Madrid,Salamanca,2.0,1,1,2627,352,2.0,1.6
+480,1070,TaCH Madrid Airport,"Barajas, Madrid",US$218,8.5,Very good,8361 reviews,"2 beds (1 single, 1 double)",7.3,Family Room (2 Adults + 1 Child),1 night, 1 adult,Madrid,Barajas,2.0,1,1,8361,218,2.0,7.3
+481,1072,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$194,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,4157,194,1.0,0.3
+482,1073,Vincci Soho,"Centro, Madrid",US$203,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,1 night, 1 adult,Madrid,Centro,3.0,1,1,8966,203,1.0,0.3
+483,1074,Hotel Meninas - Boutique Opera,"Centro, Madrid",US$152,8.5,Very good,1076 reviews,1 single bed,0.4,Single Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,1076,152,1.0,0.4
+484,1075,Ok Hostel Madrid,"Centro, Madrid",US$38,8.9,Fabulous,11168 reviews,1 bunk bed,0.4,Bed in 6-Bed Female Dormitory Room,1 night, 1 adult,Madrid,Centro,3.0,1,1,11168,38,1.0,0.4
+485,1076,Ilunion Atrium,"Ciudad Lineal, Madrid",US$116,8.6,Fabulous,10016 reviews,2 single beds,3.3,Habitación Doble (Uso Individual),1 night, 1 adult,Madrid,Ciudad Lineal,3.0,1,1,10016,116,2.0,3.3
+486,1077,Gran Versalles,"Chamberi, Madrid",US$163,8.5,Very good,6963 reviews,1 single bed,0.9,Single Room,1 night, 1 adult,Madrid,Chamberi,2.0,1,1,6963,163,1.0,0.9
+487,1078,Hotel Opera,"Centro, Madrid",US$152,8.4,Very good,2368 reviews,1 single bed,0.4,Economy Single Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,2368,152,1.0,0.4
+488,1079,Madrid Marriott Auditorium Hotel & Conference Center,"San Blas, Madrid",US$197,8.8,Fabulous,5567 reviews,2 single beds,7.9,Premium Twin Room,1 night, 1 adult,Madrid,San Blas,3.0,1,1,5567,197,2.0,7.9
+489,1080,Hotel Pinar Plaza,"Ciudad Lineal, Madrid",US$245,8.7,Fabulous,423 reviews,1 large double bed,4.9,Standard Double Room,1 night, 1 adult,Madrid,Ciudad Lineal,3.0,1,1,423,245,1.0,4.9
+490,1081,NH Barajas Airport,"Barajas, Madrid",US$152,8.4,Very good,6014 reviews,Beds: 1 double or 2 singles,6.2,Standard Double or Twin Room,1 night, 1 adult,Madrid,Barajas,2.0,1,1,6014,152,1.0,6.2
+491,1082,Axor Barajas,"San Blas, Madrid",US$210,8.6,Fabulous,4998 reviews,Beds: 1 double or 2 singles,6.7,Double or Twin Room with free airport shuttle,1 night, 1 adult,Madrid,San Blas,3.0,1,1,4998,210,1.0,6.7
+492,1083,UMusic Hotel Madrid,"Centro, Madrid",US$347,8.9,Fabulous,2319 reviews,1 large double bed,0.1,Deluxe Guest Room,1 night, 1 adult,Madrid,Centro,3.0,1,1,2319,347,1.0,0.1
+493,1084,Barceló Imagine,"Chamartín, Madrid",US$236,9.1,Superb,3392 reviews,Beds: 1 double or 2 singles,3.8,Deluxe Double or Twin Room,1 night, 1 adult,Madrid,Chamartín,4.0,1,1,3392,236,3.5,3.8
+494,1094,Aparment Almudena,"Ciudad Lineal, Madrid",US$110,8.1,Very good,23 reviews,"6 beds (3 singles, 2 doubles, 1 sofa bed)",2.6,Three-Bedroom Apartment,1 night, 1 adult,Madrid,Ciudad Lineal,2.0,1,1,23,110,6.0,2.6
+495,1095,Melia Madrid Serrano,"Salamanca, Madrid",US$352,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,1 night, 1 adult,Madrid,Salamanca,2.0,1,1,2627,352,3.5,1.6
+496,1096,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$194,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,4157,194,1.0,0.3
+497,1097,Vincci Soho,"Centro, Madrid",US$203,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,1 night, 1 adult,Madrid,Centro,3.0,1,1,8966,203,1.0,0.3
+498,1098,Hotel Meninas - Boutique Opera,"Centro, Madrid",US$152,8.5,Very good,1076 reviews,1 single bed,0.4,Single Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,1076,152,1.0,0.4
+499,1099,Ok Hostel Madrid,"Centro, Madrid",US$38,8.9,Fabulous,11168 reviews,1 bunk bed,0.4,Bed in 6-Bed Female Dormitory Room,1 night, 1 adult,Madrid,Centro,3.0,1,1,11168,38,1.0,0.4
+500,1100,Ilunion Atrium,"Ciudad Lineal, Madrid",US$116,8.6,Fabulous,10016 reviews,2 single beds,3.3,Habitación Doble (Uso Individual),1 night, 1 adult,Madrid,Ciudad Lineal,3.0,1,1,10016,116,2.0,3.3
+501,1101,Gran Versalles,"Chamberi, Madrid",US$163,8.5,Very good,6963 reviews,1 single bed,0.9,Single Room,1 night, 1 adult,Madrid,Chamberi,2.0,1,1,6963,163,1.0,0.9
+502,1102,Hotel Opera,"Centro, Madrid",US$152,8.4,Very good,2368 reviews,1 single bed,0.4,Economy Single Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,2368,152,1.0,0.4
+503,1103,Madrid Marriott Auditorium Hotel & Conference Center,"San Blas, Madrid",US$197,8.8,Fabulous,5567 reviews,2 single beds,7.9,Premium Twin Room,1 night, 1 adult,Madrid,San Blas,3.0,1,1,5567,197,2.0,7.9
+504,1104,Hotel Pinar Plaza,"Ciudad Lineal, Madrid",US$245,8.7,Fabulous,423 reviews,1 large double bed,4.9,Standard Double Room,1 night, 1 adult,Madrid,Ciudad Lineal,3.0,1,1,423,245,1.0,4.9
+505,1105,NH Barajas Airport,"Barajas, Madrid",US$152,8.4,Very good,6014 reviews,Beds: 1 double or 2 singles,6.2,Standard Double or Twin Room,1 night, 1 adult,Madrid,Barajas,2.0,1,1,6014,152,1.0,6.2
+506,1106,Axor Barajas,"San Blas, Madrid",US$210,8.6,Fabulous,4998 reviews,Beds: 1 double or 2 singles,6.7,Double or Twin Room with free airport shuttle,1 night, 1 adult,Madrid,San Blas,3.0,1,1,4998,210,1.0,6.7
+507,1107,UMusic Hotel Madrid,"Centro, Madrid",US$347,8.9,Fabulous,2319 reviews,1 large double bed,0.1,Deluxe Guest Room,1 night, 1 adult,Madrid,Centro,3.0,1,1,2319,347,1.0,0.1
+508,1108,Barceló Imagine,"Chamartín, Madrid",US$236,9.1,Superb,3392 reviews,Beds: 1 double or 2 singles,3.8,Deluxe Double or Twin Room,1 night, 1 adult,Madrid,Chamartín,4.0,1,1,3392,236,1.25,3.8
+509,1109,Hotel Cortezo,"Centro, Madrid",US$163,8.1,Very good,7300 reviews,Beds: 1 double or 2 singles,0.2,Double or Twin Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,7300,163,1.5,0.2
+510,1110,Catalonia Atocha,"Centro, Madrid",US$217,8.7,Fabulous,5443 reviews,Beds: 1 double or 2 singles,0.4,Double or Twin Room,1 night, 1 adult,Madrid,Centro,3.0,1,1,5443,217,1.75,0.4
+511,1111,Vincci Capitol,"Centro, Madrid",US$227,8.7,Fabulous,8481 reviews,2 single beds,0.3,Double or Twin Room,1 night, 1 adult,Madrid,Centro,3.0,1,1,8481,227,2.0,0.3
+512,1112,Vincci Vía - 66,"Centro, Madrid",US$215,8.5,Very good,7254 reviews,Beds: 1 double or 2 singles,0.5,Standard Double or Twin Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,7254,215,1.75,0.5
+513,1113,Hotel Mirador de Chamartín,"Ciudad Lineal, Madrid",US$142,8.4,Very good,3078 reviews,Beds: 1 double or 2 singles,4.9,Deluxe Double Room,1 night, 1 adult,Madrid,Ciudad Lineal,2.0,1,1,3078,142,1.5,4.9
+514,1114,Catalonia Puerta del Sol,"Centro, Madrid",US$228,9.0,Superb,2595 reviews,Beds: 1 double or 2 singles,0.2,Double or Twin Room,1 night, 1 adult,Madrid,Centro,4.0,1,1,2595,228,1.25,0.2
+515,1116,room00 Gran Vía Hostel,"Centro, Madrid",US$27,8.5,Very good,13860 reviews,1 single bed,0.4,Bed in 10-Bed Mixed Dormitory Room,1 night, 1 adult,Madrid,Centro,2.0,1,1,13860,27,1.0,0.4
+516,1117,Vincci Soma,"Salamanca, Madrid",US$183,8.3,Very good,6324 reviews,1 single bed,1.4,Single Room,1 night, 1 adult,Madrid,Salamanca,2.0,1,1,6324,183,1.0,1.4
+517,1148,Aparment Almudena,"Ciudad Lineal, Madrid",US$219,8.1,Very good,23 reviews,"6 beds (3 singles, 2 doubles, 1 sofa bed)",2.6,Three-Bedroom Apartment,2 nights, 1 adult,Madrid,Ciudad Lineal,2.0,2,1,23,219,6.0,2.6
+518,1149,Melia Madrid Serrano,"Salamanca, Madrid",US$754,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,2 nights, 1 adult,Madrid,Salamanca,2.0,2,1,2627,754,4.333333333333333,1.6
+519,1150,TaCH Madrid Airport,"Barajas, Madrid",US$566,8.5,Very good,8361 reviews,Multiple bed types,7.3,Double Room with Single Use,2 nights, 1 adult,Madrid,Barajas,2.0,2,1,8361,566,2.6666666666666665,7.3
+520,1151,dobohomes - GC21,"Tetuan, Madrid",US$193,8.7,Fabulous,107 reviews,1 double bed,2.7,Studio Apartment,2 nights, 1 adult,Madrid,Tetuan,3.0,2,1,107,193,1.0,2.7
+521,1153,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$518,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,4157,518,1.0,0.3
+522,1155,Ok Hostel Madrid,"Centro, Madrid",US$87,8.9,Fabulous,11168 reviews,1 bunk bed,0.4,Bed in 6-Bed Female Dormitory Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,11168,87,1.0,0.4
+523,1156,Eurostars Suites Mirasierra,"Fuencarral-El Pardo, Madrid",US$488,8.6,Fabulous,2900 reviews,1 double bed,4.8,Suite Deluxe,2 nights, 1 adult,Madrid,Fuencarral-El Pardo,3.0,2,1,2900,488,1.0,4.8
+524,1157,Vincci Capitol,"Centro, Madrid",US$561,8.7,Fabulous,8481 reviews,2 single beds,0.3,Double or Twin Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,8481,561,2.0,0.3
+525,1158,Vincci Vía - 66,"Centro, Madrid",US$537,8.5,Very good,7254 reviews,Beds: 1 double or 2 singles,0.5,Standard Double or Twin Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,7254,537,1.5,0.5
+526,1159,room00 Gran Vía Hostel,"Centro, Madrid",US$65,8.5,Very good,13860 reviews,1 single bed,0.4,Bed in 10-Bed Mixed Dormitory Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,13860,65,1.0,0.4
+527,1161,Vincci Soho,"Centro, Madrid",US$561,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,2 nights, 1 adult,Madrid,Centro,3.0,2,1,8966,561,1.0,0.3
+528,1162,Hostal Milan,"Centro, Madrid",US$286,8.3,Very good,924 reviews,1 double bed,0.3,Double Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,924,286,1.0,0.3
+529,1163,Riu Plaza España,"Centro, Madrid",US$616,8.9,Fabulous,28926 reviews,1 extra-large double bed,0.6,Deluxe King Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,28926,616,1.0,0.6
+530,1165,Hotel Moderno Puerta del Sol,"Centro, Madrid",US$407,8.7,Fabulous,6238 reviews,2 single beds,450.0,Twin Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,6238,407,2.0,450.0
+531,1176,Melia Madrid Serrano,"Salamanca, Madrid",US$754,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,2 nights, 1 adult,Madrid,Salamanca,2.0,2,1,2627,754,1.6666666666666667,1.6
+532,1177,TaCH Madrid Airport,"Barajas, Madrid",US$566,8.5,Very good,8361 reviews,Multiple bed types,7.3,Double Room with Single Use,2 nights, 1 adult,Madrid,Barajas,2.0,2,1,8361,566,1.3333333333333337,7.3
+533,1179,Ok Hostel Madrid,"Centro, Madrid",US$87,8.9,Fabulous,11168 reviews,1 bunk bed,0.4,Bed in 6-Bed Female Dormitory Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,11168,87,1.0,0.4
+534,1180,UMusic Hotel Madrid,"Centro, Madrid",US$770,8.9,Fabulous,2319 reviews,1 large double bed,0.1,Deluxe Guest Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,2319,770,1.0,0.1
+535,1181,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$518,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,4157,518,1.0,0.3
+536,1182,Eurostars Suites Mirasierra,"Fuencarral-El Pardo, Madrid",US$488,8.6,Fabulous,2900 reviews,1 double bed,4.8,Suite Deluxe,2 nights, 1 adult,Madrid,Fuencarral-El Pardo,3.0,2,1,2900,488,1.0,4.8
+537,1183,Hostal Milan,"Centro, Madrid",US$286,8.3,Very good,924 reviews,1 double bed,0.3,Double Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,924,286,1.0,0.3
+538,1184,room00 Gran Vía Hostel,"Centro, Madrid",US$65,8.5,Very good,13860 reviews,1 single bed,0.4,Bed in 10-Bed Mixed Dormitory Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,13860,65,1.0,0.4
+539,1185,Riu Plaza España,"Centro, Madrid",US$616,8.9,Fabulous,28926 reviews,1 extra-large double bed,0.6,Deluxe King Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,28926,616,1.0,0.6
+540,1186,Hotel Pinar Plaza,"Ciudad Lineal, Madrid",US$507,8.7,Fabulous,423 reviews,1 large double bed,4.9,Standard Double Room,2 nights, 1 adult,Madrid,Ciudad Lineal,3.0,2,1,423,507,1.0,4.9
+541,1189,Generator Madrid,"Centro, Madrid",US$84,8.1,Very good,9969 reviews,1 bunk bed,0.4,Bed in 8-Bed Mixed Dormitory Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,9969,84,1.0,0.4
+542,1190,Hyatt Centric Gran Via Madrid,"Centro, Madrid",US$866,8.9,Fabulous,2748 reviews,2 single beds,0.2,Twin Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,2748,866,2.0,0.2
+543,1192,Vincci Soho,"Centro, Madrid",US$561,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,2 nights, 1 adult,Madrid,Centro,3.0,2,1,8966,561,2.0,0.3
+544,1193,Vincci Vía - 66,"Centro, Madrid",US$537,8.5,Very good,7254 reviews,Beds: 1 double or 2 singles,0.5,Standard Double or Twin Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,7254,537,2.0,0.5
+545,1194,ME Madrid Reina Victoria by Meliá,"Centro, Madrid",US$670,8.4,Very good,1806 reviews,Beds: 1 double or 2 singles,0.2,ALWAYS ME Courtyard Views,2 nights, 1 adult,Madrid,Centro,2.0,2,1,1806,670,2.0,0.2
+546,1195,Vincci Capitol,"Centro, Madrid",US$561,8.7,Fabulous,8481 reviews,2 single beds,0.3,Double or Twin Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,8481,561,2.0,0.3
+547,1196,Hostal America,"Centro, Madrid",US$184,7.7,Good,2262 reviews,Multiple bed types,0.4,Single Room,2 nights, 1 adult,Madrid,Centro,1.0,2,1,2262,184,2.0,0.4
+548,1197,Hotel Moderno Puerta del Sol,"Centro, Madrid",US$407,8.7,Fabulous,6238 reviews,2 single beds,450.0,Twin Room,2 nights, 1 adult,Madrid,Centro,3.0,2,1,6238,407,2.0,450.0
+549,1198,Social - Coliving & Coworking - Madrid,"Centro, Madrid",US$87,8.2,Very good,2465 reviews,1 single bed,0.2,Bed in 4-Bed Female Dormitory Room,2 nights, 1 adult,Madrid,Centro,2.0,2,1,2465,87,1.0,0.2
+550,1200,Apartamentos Juan Bravo,"Salamanca, Madrid",US$292,8.2,Very good,4873 reviews,2 single beds,1.9,Standard Studio,2 nights, 1 adult,Madrid,Salamanca,2.0,2,1,4873,292,2.0,1.9
+551,1229,Melia Madrid Serrano,"Salamanca, Madrid",US$376,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,1 night, 2 adults,Madrid,Salamanca,2.0,1,2,2627,376,1.5,1.6
+552,1230,TaCH Madrid Airport,"Barajas, Madrid",US$222,8.5,Very good,8361 reviews,1 double bed,7.3,Double or Twin Room,1 night, 2 adults,Madrid,Barajas,2.0,1,2,8361,222,1.0,7.3
+553,1232,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$194,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,4157,194,1.0,0.3
+554,1233,UMusic Hotel Madrid,"Centro, Madrid",US$347,8.9,Fabulous,2319 reviews,1 large double bed,0.1,Deluxe Guest Room,1 night, 2 adults,Madrid,Centro,3.0,1,2,2319,347,1.0,0.1
+555,1234,Luz Madrid Rooms,"Centro, Madrid",US$112,8.2,Very good,1124 reviews,1 double bed,0.3,Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,1124,112,1.0,0.3
+556,1236,Hostal Milan,"Centro, Madrid",US$136,8.3,Very good,924 reviews,1 double bed,0.3,Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,924,136,1.0,0.3
+557,1237,Hostal America,"Centro, Madrid",US$81,7.7,Good,2262 reviews,Beds: 1 double or 2 singles,0.4,Double or Twin Room,1 night, 2 adults,Madrid,Centro,1.0,1,2,2262,81,1.0,0.4
+558,1238,Vincci Soho,"Centro, Madrid",US$203,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,1 night, 2 adults,Madrid,Centro,3.0,1,2,8966,203,1.0,0.3
+559,1239,JC Rooms Santa Ana,"Centro, Madrid",US$89,8.0,Very good,1779 reviews,Beds: 1 double or 2 singles,0.1,Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,1779,89,1.0,0.1
+560,1240,Hotel Cortezo,"Centro, Madrid",US$174,8.1,Very good,7300 reviews,Beds: 1 double or 2 singles,0.2,Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,7300,174,1.0,0.2
+561,1241,Ok Hostel Madrid,"Centro, Madrid",US$139,8.9,Fabulous,11168 reviews,1 large double bed,0.4,Double Room,1 night, 2 adults,Madrid,Centro,3.0,1,2,11168,139,1.0,0.4
+562,1242,Hyatt Centric Gran Via Madrid,"Centro, Madrid",US$380,8.9,Fabulous,2748 reviews,2 single beds,0.2,Twin Room,1 night, 2 adults,Madrid,Centro,3.0,1,2,2748,380,2.0,0.2
+563,1243,Riu Plaza España,"Centro, Madrid",US$292,8.9,Fabulous,28926 reviews,2 single beds,0.6,Deluxe Twin,1 night, 2 adults,Madrid,Centro,3.0,1,2,28926,292,2.0,0.6
+564,1244,NH Collection Madrid Gran Vía,"Centro, Madrid",US$324,9.0,Superb,1665 reviews,Beds: 1 double or 2 singles,0.3,Superior Double or Twin Room,1 night, 2 adults,Madrid,Centro,4.0,1,2,1665,324,1.5,0.3
+565,1246,Hostal Las Fuentes,"Centro, Madrid",US$93,8.2,Very good,3153 reviews,1 double bed,0.3,Interior Economy Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,3153,93,1.0,0.3
+566,1247,Hostal El Pilar,"Centro, Madrid",US$73,8.0,Very good,4742 reviews,1 single bed,250.0,Room Assigned on Arrival,1 night, 2 adults,Madrid,Centro,2.0,1,2,4742,73,1.0,250.0
+567,1248,Ilunion Atrium,"Ciudad Lineal, Madrid",US$137,8.6,Fabulous,10016 reviews,Multiple bed types,3.3,Double or Twin Room,1 night, 2 adults,Madrid,Ciudad Lineal,3.0,1,2,10016,137,1.0,3.3
+568,1249,Jc Rooms Jardines,"Centro, Madrid",US$104,8.3,Very good,4463 reviews,Beds: 1 double or 2 singles,0.2,Deluxe Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,4463,104,1.0,0.2
+569,1250,Suite Prado,"Centro, Madrid",US$184,8.5,Very good,1120 reviews,Multiple bed types,0.2,One-Bedroom Apartment,1 night, 2 adults,Madrid,Centro,2.0,1,2,1120,184,1.0,0.2
+570,1251,Catalonia Puerta del Sol,"Centro, Madrid",US$228,9.0,Superb,2595 reviews,Beds: 1 double or 2 singles,0.2,Double or Twin Room,1 night, 2 adults,Madrid,Centro,4.0,1,2,2595,228,1.0,0.2
+571,1252,Hotel Pinar Plaza,"Ciudad Lineal, Madrid",US$260,8.7,Fabulous,423 reviews,1 large double bed,4.9,Standard Double Room,1 night, 2 adults,Madrid,Ciudad Lineal,3.0,1,2,423,260,1.0,4.9
+572,1253,Vincci Vía - 66,"Centro, Madrid",US$215,8.5,Very good,7254 reviews,Beds: 1 double or 2 singles,0.5,Standard Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,7254,215,3.5,0.5
+573,1254,Aparment Almudena,"Ciudad Lineal, Madrid",US$116,8.1,Very good,23 reviews,"6 beds (3 singles, 2 doubles, 1 sofa bed)",2.6,Three-Bedroom Apartment,1 night, 2 adults,Madrid,Ciudad Lineal,2.0,1,2,23,116,6.0,2.6
+574,1255,Melia Madrid Serrano,"Salamanca, Madrid",US$376,8.5,Very good,2627 reviews,Beds: 1 double or 2 singles,1.6,Standard Double or Twin Room,1 night, 2 adults,Madrid,Salamanca,2.0,1,2,2627,376,3.5,1.6
+575,1256,TaCH Madrid Airport,"Barajas, Madrid",US$222,8.5,Very good,8361 reviews,1 double bed,7.3,Double or Twin Room,1 night, 2 adults,Madrid,Barajas,2.0,1,2,8361,222,1.0,7.3
+576,1257,Exclusivo Maria de Molina,"Salamanca, Madrid",US$234,7.4,Good,19 reviews,"3 beds (2 doubles, 1 sofa bed)",1.8,Two-Bedroom Apartment,1 night, 2 adults,Madrid,Salamanca,1.0,1,2,19,234,3.0,1.8
+577,1258,Axel Hotel Madrid - Adults Only,"Centro, Madrid",US$194,8.4,Very good,4157 reviews,1 double bed,0.3,Standard Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,4157,194,1.0,0.3
+578,1259,UMusic Hotel Madrid,"Centro, Madrid",US$347,8.9,Fabulous,2319 reviews,1 large double bed,0.1,Deluxe Guest Room,1 night, 2 adults,Madrid,Centro,3.0,1,2,2319,347,1.0,0.1
+579,1260,Luz Madrid Rooms,"Centro, Madrid",US$112,8.2,Very good,1124 reviews,1 double bed,0.3,Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,1124,112,1.0,0.3
+580,1261,Madrisol,"Centro, Madrid",US$140,7.4,Good,4064 reviews,Beds: 1 double or 2 singles,0.1,Double or Twin Room,1 night, 2 adults,Madrid,Centro,1.0,1,2,4064,140,1.0,0.1
+581,1262,Hostal Milan,"Centro, Madrid",US$136,8.3,Very good,924 reviews,1 double bed,0.3,Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,924,136,1.0,0.3
+582,1263,Vincci Soho,"Centro, Madrid",US$203,8.7,Fabulous,8966 reviews,Beds: 1 double or 2 singles,0.3,Standard Double Room with free parking,1 night, 2 adults,Madrid,Centro,3.0,1,2,8966,203,1.0,0.3
+583,1264,JC Rooms Santa Ana,"Centro, Madrid",US$89,8.0,Very good,1779 reviews,Beds: 1 double or 2 singles,0.1,Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,1779,89,1.0,0.1
+584,1265,Hotel Cortezo,"Centro, Madrid",US$174,8.1,Very good,7300 reviews,Beds: 1 double or 2 singles,0.2,Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,7300,174,1.0,0.2
+585,1266,Ok Hostel Madrid,"Centro, Madrid",US$139,8.9,Fabulous,11168 reviews,1 large double bed,0.4,Double Room,1 night, 2 adults,Madrid,Centro,3.0,1,2,11168,139,1.0,0.4
+586,1267,Hyatt Centric Gran Via Madrid,"Centro, Madrid",US$380,8.9,Fabulous,2748 reviews,2 single beds,0.2,Twin Room,1 night, 2 adults,Madrid,Centro,3.0,1,2,2748,380,2.0,0.2
+587,1268,Riu Plaza España,"Centro, Madrid",US$292,8.9,Fabulous,28926 reviews,2 single beds,0.6,Deluxe Twin,1 night, 2 adults,Madrid,Centro,3.0,1,2,28926,292,2.0,0.6
+588,1269,NH Collection Madrid Gran Vía,"Centro, Madrid",US$324,9.0,Superb,1665 reviews,Beds: 1 double or 2 singles,0.3,Superior Double or Twin Room,1 night, 2 adults,Madrid,Centro,4.0,1,2,1665,324,1.5,0.3
+589,1270,Apartamentos Soho Boutique Hoy No Me Puedo Levantar,"Centro, Madrid",US$174,8.6,Fabulous,665 reviews,1 large double bed,0.4,Suite,1 night, 2 adults,Madrid,Centro,3.0,1,2,665,174,1.0,0.4
+590,1271,Hostal Las Fuentes,"Centro, Madrid",US$93,8.2,Very good,3153 reviews,1 double bed,0.3,Interior Economy Double Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,3153,93,1.0,0.3
+591,1272,Hostal El Pilar,"Centro, Madrid",US$73,8.0,Very good,4742 reviews,1 single bed,250.0,Room Assigned on Arrival,1 night, 2 adults,Madrid,Centro,2.0,1,2,4742,73,1.0,250.0
+592,1273,Ilunion Atrium,"Ciudad Lineal, Madrid",US$137,8.6,Fabulous,10016 reviews,Multiple bed types,3.3,Double or Twin Room,1 night, 2 adults,Madrid,Ciudad Lineal,3.0,1,2,10016,137,1.0,3.3
+593,1274,Jc Rooms Jardines,"Centro, Madrid",US$104,8.3,Very good,4463 reviews,Beds: 1 double or 2 singles,0.2,Deluxe Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,4463,104,1.0,0.2
+594,1275,Suite Prado,"Centro, Madrid",US$184,8.5,Very good,1120 reviews,Multiple bed types,0.2,One-Bedroom Apartment,1 night, 2 adults,Madrid,Centro,2.0,1,2,1120,184,1.0,0.2
+595,1276,Catalonia Puerta del Sol,"Centro, Madrid",US$228,9.0,Superb,2595 reviews,Beds: 1 double or 2 singles,0.2,Double or Twin Room,1 night, 2 adults,Madrid,Centro,4.0,1,2,2595,228,1.0,0.2
+596,1277,Hotel Pinar Plaza,"Ciudad Lineal, Madrid",US$260,8.7,Fabulous,423 reviews,1 large double bed,4.9,Standard Double Room,1 night, 2 adults,Madrid,Ciudad Lineal,3.0,1,2,423,260,1.0,4.9
+597,1278,Vincci Vía - 66,"Centro, Madrid",US$215,8.5,Very good,7254 reviews,Beds: 1 double or 2 singles,0.5,Standard Double or Twin Room,1 night, 2 adults,Madrid,Centro,2.0,1,2,7254,215,1.0,0.5
