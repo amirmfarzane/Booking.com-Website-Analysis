@@ -8,15 +8,13 @@ This project involves a comprehensive analysis of Booking.com data, undertaken a
 
 1. [Project Structure](#project-structure)
 2. [Data Scraping](#data-scraping)
-3. [Feature Engineering](#feature-engineering)
-4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-5. [Model Training](#model-training)
-6. [Results](#results)
-7. [Conclusion](#conclusion)
-8. [Installation](#installation)
-9. [Usage](#usage)
-10. [Contributors](#contributors)
-11. [License](#license)
+3. [Feature Engineering and EDA](#feature-engineering)
+4. [Model Training](#model-training)
+5. [Results](#results)
+6. [Conclusion](#conclusion)
+7. [Usage](#usage)
+8. [Contributors](#contributors)
+9. [License](#license)
 
 ## Project Structure
 
@@ -28,11 +26,11 @@ Data was scraped from Booking.com using custom Python scripts and beautiful soup
 - Extracting information on hotels, such as prices, ratings, location, amenities, and reviews.
 - Choosing number of adults and number of nights is possible to change based on ypur need.
 - Also is possible to choose diffrent cities but we extracted city key from html script of website and be used.
-- Ensuring data quality and handling issues like missing values and duplicates.
 
-For more details, refer to the notebook: `notebooks/01_data_scraping.ipynb`
+For more details of this phase description, refer to the notebook: `P0/DS-Project-P0.pdf`
+For more details of this phase implementation, refer to the notebook: `scrap.ipynb`
 
-## Feature Engineering
+## Feature Engineering and EDA
 
 The feature engineering process transformed the raw data into a suitable format for analysis and modeling. Key steps included:
 
@@ -40,27 +38,26 @@ The feature engineering process transformed the raw data into a suitable format 
 - Normalizing and encoding categorical variables.
 - Handling missing values and outliers.
 
-For more details, refer to the notebook: `notebooks/02_feature_engineering.ipynb`
-
-## Exploratory Data Analysis (EDA)
-
 EDA was performed to uncover patterns, trends, and relationships in the data. Key analyses included:
 
 - Descriptive statistics and data distributions.
 - Correlation analysis and feature importance.
 - Visualizations to aid understanding of the data.
+- 
 
-For more details, refer to the notebook: `notebooks/03_eda.ipynb`
+For more details of this phase description, refer to the notebook: `P1/DS-Project-P1.pdf`
+For more details of this phase implementation, refer to the notebook: `P1/DS-Project-P1.ipynb`
 
-## Model Training
+## Model training to price prediction and using another AI methods.
 
-Several machine learning models were trained to predict hotel prices and ratings based on the engineered features. The process involved:
+Several machine learning models were trained to predict hotel prices based on the engineered features. The process involved:
 
 - Splitting the data into training and testing sets.
 - Training multiple models and tuning hyperparameters.
 - Evaluating model performance using appropriate metrics.
 
-For more details, refer to the notebook: `notebooks/04_model_training.ipynb`
+For more details of this phase description, refer to the notebook: `P2/DS-Project-P2.pdf`
+For more details of this phase implementation, refer to the notebook: `P2/DS-Project-P2.ipynb`
 
 ## Results
 
@@ -70,13 +67,17 @@ The results of the analysis include:
 - Performance metrics of the trained models.
 - Visualizations and summaries of the findings.
 
+- Finall results on test data
+  Model                    Accuracy
+---------------------  ----------
+XGboot                       0.98
+Forest regression            0.94
+Nural network                0.9
+KNN                          0.84
+Polynomial regression        0.79
+MLP regression               0.77
+Linear regression            0.57
+
 ## Conclusion
 
 This project successfully demonstrated the application of data science techniques to Booking.com data. The insights and predictive models developed can be valuable for stakeholders in the hospitality and travel industry.
-
-## Installation
-
-To install the required dependencies, run:
-
-```bash
-pip install -r requirements.txt
