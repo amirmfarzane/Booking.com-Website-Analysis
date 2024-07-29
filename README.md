@@ -68,15 +68,15 @@ The results of the analysis include:
 - Visualizations and summaries of the findings.
 
 - Finall results on test data
-  Model                    Accuracy
----------------------  ----------
-XGboot                       0.98
-Forest regression            0.94
-Nural network                0.9
-KNN                          0.84
-Polynomial regression        0.79
-MLP regression               0.77
-Linear regression            0.57
+|Model|   R^2 Score|
+|--------------------- | ----------|
+|XGboot                       |0.98|
+|Forest regression            |0.94|
+|Nural network                |0.9|
+|KNN                          |0.84|
+|Polynomial regression        |0.79|
+|MLP regression               |0.77|
+|Linear regression            |0.57|
 
 ## Conclusion
 
