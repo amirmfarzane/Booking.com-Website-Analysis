@@ -15,6 +15,22 @@ This project involves a comprehensive analysis of Booking.com data, undertaken a
 7. [License](#license)
 
 ## Project Structure
+booking-com-analysis/
+│
+├── Scrapping/
+│   ├── hotels_in_europe.csv/                   # Raw data collected from the website
+|   ├── scrap.ipynb/             # Scrapping implementation
+│   ├── DS-Project-P0.pdf/             # This phase description
+│
+├── EDA and feature engineering/
+│   ├── DS-Project-P1.ipynb 
+|   ├── DS-Project-P1.pdf 
+│
+├── Train Models/
+│   ├── DS-Project-P2.ipynb 
+│   ├── DS-Project-P2.pdf
+├── README.md
+└── requirements.txt
 
 
 ## Data Scraping
